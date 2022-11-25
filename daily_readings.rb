@@ -42,7 +42,7 @@ puts "There are #{links.size} links found"
 # title of the document
 puts doc.title
 
-class ScriptureReading < Element
+class ScriptureReading < LinkElement
 end
 
 # now search the document for all reading elements

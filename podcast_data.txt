@@ -1,330 +1,340 @@
 
-::Program Link::https://www.ancientfaith.com/podcasts/afdocumentaries::Program Text::Ancient Faith Documentaries::
+::Element Link::https://www.ancientfaith.com/podcasts/afdocumentaries::Element Text::Ancient Faith Documentaries::
 
-::Program Link::https://www.ancientfaith.com/podcasts/aftoday::Program Text::Ancient Faith Today::
+::Element Link::https://www.ancientfaith.com/podcasts/aftoday::Element Text::Ancient Faith Today::
 
-::Program Link::https://www.ancientfaith.com/podcasts/aftodaylive::Program Text::Ancient Faith Today Live::
+::Element Link::https://www.ancientfaith.com/podcasts/aftodaylive::Element Text::Ancient Faith Today Live::
 
-::Program Link::https://www.ancientfaith.com/podcasts/aftodaylive/eternal_truths_in_fictional_word_and_art::Program Text::Eternal Truths in Fictional Word and Art::
+::Element Link::https://www.ancientfaith.com/podcasts/aftodaylive/the_orthodox_volunteer_corps_check_in::Element Text::The Orthodox Volunteer Corps Check In::
 
-::Program Link::https://www.ancientfaith.com/podcasts/allsaints::Program Text::All Saints Homilies::
+::Element Link::https://www.ancientfaith.com/podcasts/allsaints::Element Text::All Saints Homilies::
 
-::Program Link::https://www.ancientfaith.com/podcasts/allsaints/who::Program Text::Who::
+::Element Link::https://www.ancientfaith.com/podcasts/allsaints/the_gracious_bounty_of_the_father::Element Text::The Gracious Bounty of the Father::
 
-::Program Link::https://www.ancientfaith.com/podcasts/allthesethings::Program Text::All These Things::
+::Element Link::https://www.ancientfaith.com/podcasts/allthesethings::Element Text::All These Things::
 
-::Program Link::https://www.ancientfaith.com/podcasts/allthesethings/ep_56_why_and_how_i_plan_to_take_a_digital_break::Program Text::Ep 56 - Why and How I Plan to take a Digital Break::
+::Element Link::https://www.ancientfaith.com/podcasts/amonsul::Element Text::Amon Sûl::
 
-::Program Link::https://www.ancientfaith.com/podcasts/amonsul::Program Text::Amon Sûl::
+::Element Link::https://www.ancientfaith.com/podcasts/amonsul/078_durins_day::Element Text::078 - Durin’s Day::
 
-::Program Link::https://www.ancientfaith.com/podcasts/amvon::Program Text::From the Amvon::
+::Element Link::https://www.ancientfaith.com/podcasts/amvon::Element Text::From the Amvon::
 
-::Program Link::https://www.ancientfaith.com/podcasts/amvon/testing_the_spirits::Program Text::Testing the Spirits::
+::Element Link::https://www.ancientfaith.com/podcasts/amvon/the_woman_with_an_issue_of_blood::Element Text::The Woman with an Issue of Blood::
 
-::Program Link::https://www.ancientfaith.com/podcasts/areopagus::Program Text::The Areopagus::
+::Element Link::https://www.ancientfaith.com/podcasts/areopagus::Element Text::The Areopagus::
 
-::Program Link::https://www.ancientfaith.com/podcasts/asceticlives::Program Text::The Ascetic Lives of Mothers::
+::Element Link::https://www.ancientfaith.com/podcasts/asceticlives::Element Text::The Ascetic Lives of Mothers::
 
-::Program Link::https://www.ancientfaith.com/podcasts/badbooks::Program Text::Bad Books of the Bible::
+::Element Link::https://www.ancientfaith.com/podcasts/badbooks::Element Text::Bad Books of the Bible::
 
-::Program Link::https://www.ancientfaith.com/podcasts/badbooks/wisdom_1112_gods_patience_on_display::Program Text::Wisdom 11–12: God’s Patience on Display::
+::Element Link::https://www.ancientfaith.com/podcasts/badbooks/wisdom_1112_gods_patience_on_display::Element Text::Wisdom 11–12: God’s Patience on Display::
 
-::Program Link::https://www.ancientfaith.com/podcasts/badbooks/wisdom_of_solomon_chapters_11_and_12::Program Text::Wisdom of Solomon, Chapters 11 and 12::
+::Element Link::https://www.ancientfaith.com/podcasts/badbooks/wisdom_1314_looking_for_god_in_all_the_wrong_places::Element Text::Wisdom 13–14: Looking for God in all the Wrong Places::
 
-::Program Link::https://www.ancientfaith.com/podcasts/battlefield::Program Text::On the Battlefield::
+::Element Link::https://www.ancientfaith.com/podcasts/badbooks/wisdom_of_solomon_chapters_13_and_14::Element Text::Wisdom of Solomon, Chapters 13 and 14::
 
-::Program Link::https://www.ancientfaith.com/podcasts/bethebee::Program Text::Be the Bee::
+::Element Link::https://www.ancientfaith.com/podcasts/battlefield::Element Text::On the Battlefield::
 
-::Program Link::https://www.ancientfaith.com/podcasts/cambridge::Program Text::The Cambridge Orthodox Forum::
+::Element Link::https://www.ancientfaith.com/podcasts/battlefield/unbridled_consumption::Element Text::Unbridled Consumption::
 
-::Program Link::https://www.ancientfaith.com/podcasts/certainkingdom::Program Text::In a Certain Kingdom::
+::Element Link::https://www.ancientfaith.com/podcasts/bethebee::Element Text::Be the Bee::
 
-::Program Link::https://www.ancientfaith.com/podcasts/certainkingdom/a_special_announcement::Program Text::A Special Announcement!::
+::Element Link::https://www.ancientfaith.com/podcasts/cambridge::Element Text::The Cambridge Orthodox Forum::
 
-::Program Link::https://www.ancientfaith.com/podcasts/chapters::Program Text::Chapters::
+::Element Link::https://www.ancientfaith.com/podcasts/certainkingdom::Element Text::In a Certain Kingdom::
 
-::Program Link::https://www.ancientfaith.com/podcasts/christianending::Program Text::A Christian Ending::
+::Element Link::https://www.ancientfaith.com/podcasts/chapters::Element Text::Chapters::
 
-::Program Link::https://www.ancientfaith.com/podcasts/comeandsee::Program Text::Come and See::
+::Element Link::https://www.ancientfaith.com/podcasts/christianending::Element Text::A Christian Ending::
 
-::Program Link::https://www.ancientfaith.com/podcasts/comeandsee/keeping_rules::Program Text::Keeping Rules::
+::Element Link::https://www.ancientfaith.com/podcasts/comeandsee::Element Text::Come and See::
 
-::Program Link::https://www.ancientfaith.com/podcasts/commentaries::Program Text::Ancient Faith Commentaries::
+::Element Link::https://www.ancientfaith.com/podcasts/commentaries::Element Text::Ancient Faith Commentaries::
 
-::Program Link::https://www.ancientfaith.com/podcasts/dailyscriptures::Program Text::Daily Orthodox Scriptures::
+::Element Link::https://www.ancientfaith.com/podcasts/dailyscriptures::Element Text::Daily Orthodox Scriptures::
 
-::Program Link::https://www.ancientfaith.com/podcasts/dailyscriptures/november_19_2022::Program Text::November 19, 2022::
+::Element Link::https://www.ancientfaith.com/podcasts/dailyscriptures/november_24_2022::Element Text::November 24, 2022::
 
-::Program Link::https://www.ancientfaith.com/podcasts/dailyscriptures/november_20_2022::Program Text::November 20, 2022::
+::Element Link::https://www.ancientfaith.com/podcasts/dailyscriptures/november_25_2022::Element Text::November 25, 2022::
 
-::Program Link::https://www.ancientfaith.com/podcasts/dailyscriptureskids::Program Text::Daily Orthodox Scriptures for Kids::
+::Element Link::https://www.ancientfaith.com/podcasts/dailyscriptureskids::Element Text::Daily Orthodox Scriptures for Kids::
 
-::Program Link::https://www.ancientfaith.com/podcasts/dailyscriptureskids/november_19_2022::Program Text::November 19, 2022::
+::Element Link::https://www.ancientfaith.com/podcasts/dailyscriptureskids/november_24_2022::Element Text::November 24, 2022::
 
-::Program Link::https://www.ancientfaith.com/podcasts/dailyscriptureskids/november_20_2022::Program Text::November 20, 2022::
+::Element Link::https://www.ancientfaith.com/podcasts/dailyscriptureskids/november_25_2022::Element Text::November 25, 2022::
 
-::Program Link::https://www.ancientfaith.com/podcasts/divineliturgy::Program Text::The Divine Liturgy::
+::Element Link::https://www.ancientfaith.com/podcasts/divineliturgy::Element Text::The Divine Liturgy::
 
-::Program Link::https://www.ancientfaith.com/podcasts/easternchristianinsights::Program Text::Eastern Christian Insights::
+::Element Link::https://www.ancientfaith.com/podcasts/easternchristianinsights::Element Text::Eastern Christian Insights::
 
-::Program Link::https://www.ancientfaith.com/podcasts/easternchristianinsights/we_must_live_the_liturgy::Program Text::We Must Live the Liturgy of our Great High Priest Every Day of Our Lives::
+::Element Link::https://www.ancientfaith.com/podcasts/eastwest::Element Text::At the Intersection of East and West::
 
-::Program Link::https://www.ancientfaith.com/podcasts/eastwest::Program Text::At the Intersection of East and West::
+::Element Link::https://www.ancientfaith.com/podcasts/emmaus::Element Text::Roads From Emmaus::
 
-::Program Link::https://www.ancientfaith.com/podcasts/emmaus::Program Text::Roads From Emmaus::
+::Element Link::https://www.ancientfaith.com/podcasts/everydayorthodox::Element Text::Everyday Orthodox::
 
-::Program Link::https://www.ancientfaith.com/podcasts/everydayorthodox::Program Text::Everyday Orthodox::
+::Element Link::https://www.ancientfaith.com/podcasts/everydayorthodox/meet_nazo_zakkak::Element Text::Meet Nazo Zakkak::
 
-::Program Link::https://www.ancientfaith.com/podcasts/everydayorthodox/meet_zeina_livanos::Program Text::Meet Zeina Livanos::
+::Element Link::https://www.ancientfaith.com/podcasts/everythought::Element Text::Every Thought Captive::
 
-::Program Link::https://www.ancientfaith.com/podcasts/everythought::Program Text::Every Thought Captive::
+::Element Link::https://www.ancientfaith.com/podcasts/everythought/the_destructive_lie_of_ideology_solzhenitsyns_the_gulag_archipelago_part_1::Element Text::The Destructive Lie of Ideology: Solzhenitsyn’s The Gulag Archipelago - Part 1::
 
-::Program Link::https://www.ancientfaith.com/podcasts/exlibris::Program Text::Ex Libris::
+::Element Link::https://www.ancientfaith.com/podcasts/exlibris::Element Text::Ex Libris::
 
-::Program Link::https://www.ancientfaith.com/podcasts/faithencouraged::Program Text::Faith Encouraged::
+::Element Link::https://www.ancientfaith.com/podcasts/faithencouraged::Element Text::Faith Encouraged::
 
-::Program Link::https://www.ancientfaith.com/podcasts/faithencouragedlive::Program Text::Faith Encouraged Live::
+::Element Link::https://www.ancientfaith.com/podcasts/faithencouragedlive::Element Text::Faith Encouraged Live::
 
-::Program Link::https://www.ancientfaith.com/podcasts/familymatters::Program Text::Family Matters::
+::Element Link::https://www.ancientfaith.com/podcasts/familymatters::Element Text::Family Matters::
 
-::Program Link::https://www.ancientfaith.com/podcasts/familymatters/fully_human_edition_luv_michael_and_usautism_homes_ministry_model_spotlight::Program Text::Fully Human Edition: Luv, Michael and USAutism Homes Ministry Model Spotlight::
+::Element Link::https://www.ancientfaith.com/podcasts/features::Element Text::Ancient Faith Presents…::
 
-::Program Link::https://www.ancientfaith.com/podcasts/features::Program Text::Ancient Faith Presents...::
+::Element Link::https://www.ancientfaith.com/podcasts/features::Element Text::Ancient Faith Presents...::
 
-::Program Link::https://www.ancientfaith.com/podcasts/features::Program Text::Ancient Faith Presents…::
+::Element Link::https://www.ancientfaith.com/podcasts/features/from_communism_to_christ_metropolitan_john_of_korce::Element Text::From Communism to Christ - Metropolitan John of Korce::
 
-::Program Link::https://www.ancientfaith.com/podcasts/filledwithless::Program Text::Filled with Less::
+::Element Link::https://www.ancientfaith.com/podcasts/filledwithless::Element Text::Filled with Less::
 
-::Program Link::https://www.ancientfaith.com/podcasts/foodfaithfasting::Program Text::Food, Faith, and Fasting::
+::Element Link::https://www.ancientfaith.com/podcasts/filledwithless/filled_with_less_november_2022::Element Text::Filled with Less - November 2022::
 
-::Program Link::https://www.ancientfaith.com/podcasts/foodfreedom::Program Text::Food Freedom Through Christ::
+::Element Link::https://www.ancientfaith.com/podcasts/foodfaithfasting::Element Text::Food, Faith, and Fasting::
 
-::Program Link::https://www.ancientfaith.com/podcasts/frederica::Program Text::Frederica Here and Now::
+::Element Link::https://www.ancientfaith.com/podcasts/foodfreedom::Element Text::Food Freedom Through Christ::
 
-::Program Link::https://www.ancientfaith.com/podcasts/freedom::Program Text::Finding the Freedom to Live::
+::Element Link::https://www.ancientfaith.com/podcasts/foodfreedom/keeping_the_spirit_of_the_advent_fast_this_thanksgiving::Element Text::Keeping the Spirit of the Advent Fast this Thanksgiving::
 
-::Program Link::https://www.ancientfaith.com/podcasts/freeman::Program Text::Glory to God::
+::Element Link::https://www.ancientfaith.com/podcasts/frederica::Element Text::Frederica Here and Now::
 
-::Program Link::https://www.ancientfaith.com/podcasts/givemeaword::Program Text::Give Me a Word::
+::Element Link::https://www.ancientfaith.com/podcasts/freedom::Element Text::Finding the Freedom to Live::
 
-::Program Link::https://www.ancientfaith.com/podcasts/givemeaword/st_innocent_of_alaska_a_missions_visionary::Program Text::St Innocent of Alaska - a Missions Visionary::
+::Element Link::https://www.ancientfaith.com/podcasts/freeman::Element Text::Glory to God::
 
-::Program Link::https://www.ancientfaith.com/podcasts/glorificando::Program Text::Glorificando a Dios Diariamente::
+::Element Link::https://www.ancientfaith.com/podcasts/givemeaword::Element Text::Give Me a Word::
 
-::Program Link::https://www.ancientfaith.com/podcasts/goodguys::Program Text::Good Guys Wear Black::
+::Element Link::https://www.ancientfaith.com/podcasts/givemeaword/moved_with_compassion::Element Text::Moved with Compassion::
 
-::Program Link::https://www.ancientfaith.com/podcasts/gracehereandnow::Program Text::Grace Here and Now::
+::Element Link::https://www.ancientfaith.com/podcasts/glorificando::Element Text::Glorificando a Dios Diariamente::
 
-::Program Link::https://www.ancientfaith.com/podcasts/grapevine::Program Text::Readings from Under the Grapevine::
+::Element Link::https://www.ancientfaith.com/podcasts/goodguys::Element Text::Good Guys Wear Black::
 
-::Program Link::https://www.ancientfaith.com/podcasts/hastalagloria::Program Text::Hasta la Gloria::
+::Element Link::https://www.ancientfaith.com/podcasts/gracehereandnow::Element Text::Grace Here and Now::
 
-::Program Link::https://www.ancientfaith.com/podcasts/healingaddictions::Program Text::Healing Addictions::
+::Element Link::https://www.ancientfaith.com/podcasts/grapevine::Element Text::Readings from Under the Grapevine::
 
-::Program Link::https://www.ancientfaith.com/podcasts/healingaddictions2::Program Text::Healing Addictions II::
+::Element Link::https://www.ancientfaith.com/podcasts/hastalagloria::Element Text::Hasta la Gloria::
 
-::Program Link::https://www.ancientfaith.com/podcasts/healingpresence::Program Text::Becoming a Healing Presence::
+::Element Link::https://www.ancientfaith.com/podcasts/healingaddictions::Element Text::Healing Addictions::
 
-::Program Link::https://www.ancientfaith.com/podcasts/healingpresence/more_i_could_not_ask_part_1::Program Text::More I Could Not Ask - Part 1::
+::Element Link::https://www.ancientfaith.com/podcasts/healingaddictions2::Element Text::Healing Addictions II::
 
-::Program Link::https://www.ancientfaith.com/podcasts/healingunresolved::Program Text::Healing the Unresolved::
+::Element Link::https://www.ancientfaith.com/podcasts/healingpresence::Element Text::Becoming a Healing Presence::
 
-::Program Link::https://www.ancientfaith.com/podcasts/healthysouls::Program Text::Healthy Souls::
+::Element Link::https://www.ancientfaith.com/podcasts/healingunresolved::Element Text::Healing the Unresolved::
 
-::Program Link::https://www.ancientfaith.com/podcasts/healthysouls/coming_out_of_the_darkness_of_depression_pt_ii::Program Text::Coming Out Of The Darkness Of Depression Part 2::
+::Element Link::https://www.ancientfaith.com/podcasts/healthysouls::Element Text::Healthy Souls::
 
-::Program Link::https://www.ancientfaith.com/podcasts/hearts_and_minds::Program Text::Hearts and Minds::
+::Element Link::https://www.ancientfaith.com/podcasts/hearts_and_minds::Element Text::Hearts and Minds::
 
-::Program Link::https://www.ancientfaith.com/podcasts/hearts_and_minds/life_is_hard_life_is_joy::Program Text::Life is Hard, Life is Joy::
+::Element Link::https://www.ancientfaith.com/podcasts/hearts_and_minds/entrance_of_the_theotokos::Element Text::Entrance of the Theotokos::
 
-::Program Link::https://www.ancientfaith.com/podcasts/hiddensaints::Program Text::Hidden Saints::
+::Element Link::https://www.ancientfaith.com/podcasts/hiddensaints::Element Text::Hidden Saints::
 
-::Program Link::https://www.ancientfaith.com/podcasts/history::Program Text::American Orthodox History::
+::Element Link::https://www.ancientfaith.com/podcasts/hiddensaints/varlaam_of_the_kiev_caves_nov_19::Element Text::Varlaam of the Kiev Caves (nov 19)::
 
-::Program Link::https://www.ancientfaith.com/podcasts/hmhs::Program Text::Healthy Minds Healthy Souls::
+::Element Link::https://www.ancientfaith.com/podcasts/history::Element Text::American Orthodox History::
 
-::Program Link::https://www.ancientfaith.com/podcasts/holyfathers::Program Text::A Word from the Holy Fathers::
+::Element Link::https://www.ancientfaith.com/podcasts/hmhs::Element Text::Healthy Minds Healthy Souls::
 
-::Program Link::https://www.ancientfaith.com/podcasts/hopko::Program Text::Speaking the Truth in Love::
+::Element Link::https://www.ancientfaith.com/podcasts/holyfathers::Element Text::A Word from the Holy Fathers::
 
-::Program Link::https://www.ancientfaith.com/podcasts/humanexceptionalism::Program Text::Human Exceptionalism::
+::Element Link::https://www.ancientfaith.com/podcasts/hopko::Element Text::Speaking the Truth in Love::
 
-::Program Link::https://www.ancientfaith.com/podcasts/illuminedheart::Program Text::The Illumined Heart::
+::Element Link::https://www.ancientfaith.com/podcasts/humanexceptionalism::Element Text::Human Exceptionalism::
 
-::Program Link::https://www.ancientfaith.com/podcasts/isermon::Program Text::iSermon::
+::Element Link::https://www.ancientfaith.com/podcasts/illuminedheart::Element Text::The Illumined Heart::
 
-::Program Link::https://www.ancientfaith.com/podcasts/lampfortoday::Program Text::A Lamp for Today::
+::Element Link::https://www.ancientfaith.com/podcasts/isermon::Element Text::iSermon::
 
-::Program Link::https://www.ancientfaith.com/podcasts/lampfortoday/lighting_up_the_apocalypse_40_revelation_inside_out::Program Text::Lighting Up the Apocalypse 40: Revelation Inside Out::
+::Element Link::https://www.ancientfaith.com/podcasts/lampfortoday::Element Text::A Lamp for Today::
 
-::Program Link::https://www.ancientfaith.com/podcasts/lawofthespirit::Program Text::The Law of the Spirit::
+::Element Link::https://www.ancientfaith.com/podcasts/lawofthespirit::Element Text::The Law of the Spirit::
 
-::Program Link::https://www.ancientfaith.com/podcasts/letmyprayer::Program Text::Let My Prayer Arise::
+::Element Link::https://www.ancientfaith.com/podcasts/letmyprayer::Element Text::Let My Prayer Arise::
 
-::Program Link::https://www.ancientfaith.com/podcasts/letusattend::Program Text::Let Us Attend::
+::Element Link::https://www.ancientfaith.com/podcasts/letusattend::Element Text::Let Us Attend::
 
-::Program Link::https://www.ancientfaith.com/podcasts/letusattend/november_20_2022_luke_1216_21_read_for_older_children::Program Text::November 20, 2022: Luke 12:16-21, Read for Older Children::
+::Element Link::https://www.ancientfaith.com/podcasts/letusattend/november_27_2022_luke_1818_27_read_for_older_children::Element Text::November 27, 2022: Luke 18:18-27, Read for Older Children::
 
-::Program Link::https://www.ancientfaith.com/podcasts/letusattend/november_20_2022_luke_1216_21_told_for_younger_children::Program Text::November 20, 2022: Luke 12:16-21, Told for Younger Children::
+::Element Link::https://www.ancientfaith.com/podcasts/letusattend/november_27_2022_luke_1818_27_told_for_younger_children::Element Text::November 27, 2022: Luke 18:18-27, Told for Younger Children::
 
-::Program Link::https://www.ancientfaith.com/podcasts/lifeofchurch::Program Text::The Life of the Church Today::
+::Element Link::https://www.ancientfaith.com/podcasts/lifeofchurch::Element Text::The Life of the Church Today::
 
-::Program Link::https://www.ancientfaith.com/podcasts/lightpast::Program Text::Light Through the Past::
+::Element Link::https://www.ancientfaith.com/podcasts/lightpast::Element Text::Light Through the Past::
 
-::Program Link::https://www.ancientfaith.com/podcasts/lightpast/novatian_a_trinitarian_ahead_of_his_time::Program Text::Novatian, A Trinitarian Ahead of His Time::
+::Element Link::https://www.ancientfaith.com/podcasts/lightpast/st_dionysius_of_alexandria_and_the_continued_ambiguity_of_language::Element Text::St. Dionysius of Alexandria and the Continued Ambiguity of Language::
 
-::Program Link::https://www.ancientfaith.com/podcasts/lightstreamsin::Program Text::Light Streams In::
+::Element Link::https://www.ancientfaith.com/podcasts/lightstreamsin::Element Text::Light Streams In::
 
-::Program Link::https://www.ancientfaith.com/podcasts/lightstreamsin/nativity_fast::Program Text::Nativity Fast::
+::Element Link::https://www.ancientfaith.com/podcasts/lightstreamsin/thanksgiving::Element Text::Thanksgiving::
 
-::Program Link::https://www.ancientfaith.com/podcasts/lightstreamsin/thanksgiving::Program Text::Thanksgiving::
+::Element Link::https://www.ancientfaith.com/podcasts/livetheword::Element Text::Live the Word::
 
-::Program Link::https://www.ancientfaith.com/podcasts/livetheword::Program Text::Live the Word::
+::Element Link::https://www.ancientfaith.com/podcasts/livewiththelouhs::Element Text::Live with the Louhs::
 
-::Program Link::https://www.ancientfaith.com/podcasts/livewiththelouhs::Program Text::Live with the Louhs::
+::Element Link::https://www.ancientfaith.com/podcasts/livewiththelouhs/fasting_for_the_soul_and_body::Element Text::Fasting for the Soul and Body::
 
-::Program Link::https://www.ancientfaith.com/podcasts/livewiththelouhs/managing_holiday_stress::Program Text::Managing Holiday Stress::
+::Element Link::https://www.ancientfaith.com/podcasts/lordofspirits::Element Text::The Lord of Spirits::
 
-::Program Link::https://www.ancientfaith.com/podcasts/lordofspirits::Program Text::The Lord of Spirits::
+::Element Link::https://www.ancientfaith.com/podcasts/lordofspirits/thanksgiving::Element Text::Thanksgiving::
 
-::Program Link::https://www.ancientfaith.com/podcasts/lordsendme::Program Text::Lord, Send Me::
+::Element Link::https://www.ancientfaith.com/podcasts/lordsendme::Element Text::Lord, Send Me::
 
-::Program Link::https://www.ancientfaith.com/podcasts/madetobeakingdom::Program Text::Made to Be a Kingdom::
+::Element Link::https://www.ancientfaith.com/podcasts/madetobeakingdom::Element Text::Made to Be a Kingdom::
 
-::Program Link::https://www.ancientfaith.com/podcasts/madetobeakingdom/making_a_catechumen_the_prayers_of_exorcism::Program Text::Making a Catechumen - The Prayers of Exorcism::
+::Element Link::https://www.ancientfaith.com/podcasts/madetobeakingdom/making_a_catechumen_the_prayers_of_exorcism::Element Text::Making a Catechumen - The Prayers of Exorcism::
 
-::Program Link::https://www.ancientfaith.com/podcasts/monkseyes::Program Text::Through a Monk's Eyes::
+::Element Link::https://www.ancientfaith.com/podcasts/madetobeakingdom/thanksgiving_language_and_ritual::Element Text::Thanksgiving - language and ritual::
 
-::Program Link::https://www.ancientfaith.com/podcasts/monkseyes::Program Text::Through a Monk’s Eyes::
+::Element Link::https://www.ancientfaith.com/podcasts/monkseyes::Element Text::Through a Monk's Eyes::
 
-::Program Link::https://www.ancientfaith.com/podcasts/namesofjesus::Program Text::The Names of Jesus::
+::Element Link::https://www.ancientfaith.com/podcasts/monkseyes::Element Text::Through a Monk’s Eyes::
 
-::Program Link::https://www.ancientfaith.com/podcasts/nootherfoundation::Program Text::No Other Foundation::
+::Element Link::https://www.ancientfaith.com/podcasts/monkseyes/habitual_sin_how_to_move_forward::Element Text::Habitual Sin: How To Move Forward::
 
-::Program Link::https://www.ancientfaith.com/podcasts/ocf::Program Text::OCF Campus Ministry Podcast::
+::Element Link::https://www.ancientfaith.com/podcasts/namesofjesus::Element Text::The Names of Jesus::
 
-::Program Link::https://www.ancientfaith.com/podcasts/ocf/despondency::Program Text::Despondency::
+::Element Link::https://www.ancientfaith.com/podcasts/nootherfoundation::Element Text::No Other Foundation::
 
-::Program Link::https://www.ancientfaith.com/podcasts/onefivethree::Program Text::The 153::
+::Element Link::https://www.ancientfaith.com/podcasts/ocf::Element Text::OCF Campus Ministry Podcast::
 
-::Program Link::https://www.ancientfaith.com/podcasts/orthodixie::Program Text::Orthodixie::
+::Element Link::https://www.ancientfaith.com/podcasts/onefivethree::Element Text::The 153::
 
-::Program Link::https://www.ancientfaith.com/podcasts/orthodoxengagement::Program Text::Orthodox Engagement::
+::Element Link::https://www.ancientfaith.com/podcasts/orthodixie::Element Text::Orthodixie::
 
-::Program Link::https://www.ancientfaith.com/podcasts/orthodoxleader::Program Text::The Orthodox Leader::
+::Element Link::https://www.ancientfaith.com/podcasts/orthodoxengagement::Element Text::Orthodox Engagement::
 
-::Program Link::https://www.ancientfaith.com/podcasts/orthodoxyheterodoxy::Program Text::Orthodoxy and Heterodoxy::
+::Element Link::https://www.ancientfaith.com/podcasts/orthodoxleader::Element Text::The Orthodox Leader::
 
-::Program Link::https://www.ancientfaith.com/podcasts/orthodoxylive::Program Text::Orthodoxy Live::
+::Element Link::https://www.ancientfaith.com/podcasts/orthodoxyheterodoxy::Element Text::Orthodoxy and Heterodoxy::
 
-::Program Link::https://www.ancientfaith.com/podcasts/ourlife::Program Text::Our Life in Christ::
+::Element Link::https://www.ancientfaith.com/podcasts/orthodoxylive::Element Text::Orthodoxy Live::
 
-::Program Link::https://www.ancientfaith.com/podcasts/parables::Program Text::Parables of Community::
+::Element Link::https://www.ancientfaith.com/podcasts/ourlife::Element Text::Our Life in Christ::
 
-::Program Link::https://www.ancientfaith.com/podcasts/paradiseutopia::Program Text::Paradise and Utopia::
+::Element Link::https://www.ancientfaith.com/podcasts/parables::Element Text::Parables of Community::
 
-::Program Link::https://www.ancientfaith.com/podcasts/pathacademy::Program Text::The Path to the Academy::
+::Element Link::https://www.ancientfaith.com/podcasts/paradiseutopia::Element Text::Paradise and Utopia::
 
-::Program Link::https://www.ancientfaith.com/podcasts/persontoperson::Program Text::Person to Person::
+::Element Link::https://www.ancientfaith.com/podcasts/pathacademy::Element Text::The Path to the Academy::
 
-::Program Link::https://www.ancientfaith.com/podcasts/persontoperson/passions_virtues_part_3::Program Text::Passions & Virtues Part 3::
+::Element Link::https://www.ancientfaith.com/podcasts/pathacademy/reenchanting_education::Element Text::Reenchanting Education::
 
-::Program Link::https://www.ancientfaith.com/podcasts/pilgrims::Program Text::Pilgrims from Paradise::
+::Element Link::https://www.ancientfaith.com/podcasts/persontoperson::Element Text::Person to Person::
 
-::Program Link::https://www.ancientfaith.com/podcasts/ponderings::Program Text::Pastoral Ponderings::
+::Element Link::https://www.ancientfaith.com/podcasts/persontoperson/passions_virtues_part_3::Element Text::Passions & Virtues Part 3::
 
-::Program Link::https://www.ancientfaith.com/podcasts/popculture::Program Text::Pop Culture Coffee Hour::
+::Element Link::https://www.ancientfaith.com/podcasts/pilgrims::Element Text::Pilgrims from Paradise::
 
-::Program Link::https://www.ancientfaith.com/podcasts/prayingintherain::Program Text::Praying in the Rain::
+::Element Link::https://www.ancientfaith.com/podcasts/ponderings::Element Text::Pastoral Ponderings::
 
-::Program Link::https://www.ancientfaith.com/podcasts/rain::Program Text::Rain in the Desert::
+::Element Link::https://www.ancientfaith.com/podcasts/popculture::Element Text::Pop Culture Coffee Hour::
 
-::Program Link::https://www.ancientfaith.com/podcasts/rain/the_lethality_of_sin_and_its_cure::Program Text::The Lethality of Sin and Its Cure::
+::Element Link::https://www.ancientfaith.com/podcasts/prayingintherain::Element Text::Praying in the Rain::
 
-::Program Link::https://www.ancientfaith.com/podcasts/raisingsaints::Program Text::Raising Saints::
+::Element Link::https://www.ancientfaith.com/podcasts/rain::Element Text::Rain in the Desert::
 
-::Program Link::https://www.ancientfaith.com/podcasts/recollectingglory::Program Text::Recollecting Glory::
+::Element Link::https://www.ancientfaith.com/podcasts/raisingsaints::Element Text::Raising Saints::
 
-::Program Link::https://www.ancientfaith.com/podcasts/sacramental::Program Text::Sacramental Living::
+::Element Link::https://www.ancientfaith.com/podcasts/recollectingglory::Element Text::Recollecting Glory::
 
-::Program Link::https://www.ancientfaith.com/podcasts/sacrificeofpraise::Program Text::A Sacrifice of Praise::
+::Element Link::https://www.ancientfaith.com/podcasts/sacramental::Element Text::Sacramental Living::
 
-::Program Link::https://www.ancientfaith.com/podcasts/saintemmelia::Program Text::The Saint Emmelia Podcast::
+::Element Link::https://www.ancientfaith.com/podcasts/sacramental/hospitality_and_our_salvation::Element Text::Hospitality and Our Salvation::
 
-::Program Link::https://www.ancientfaith.com/podcasts/saintemmelia/052_spiritual_nuggets_how_to_make_the_holidays_a_holy_time::Program Text::052 - Spiritual Nuggets: How to Make the Holidays a Holy Time::
+::Element Link::https://www.ancientfaith.com/podcasts/sacrificeofpraise::Element Text::A Sacrifice of Praise::
 
-::Program Link::https://www.ancientfaith.com/podcasts/saintoftheday::Program Text::Saint of the Day::
+::Element Link::https://www.ancientfaith.com/podcasts/saintemmelia::Element Text::The Saint Emmelia Podcast::
 
-::Program Link::https://www.ancientfaith.com/podcasts/saintoftheday/holy_prophet_obadiah_abdias1::Program Text::Holy Prophet Obadiah (Abdias)::
+::Element Link::https://www.ancientfaith.com/podcasts/saintoftheday::Element Text::Saint of the Day::
 
-::Program Link::https://www.ancientfaith.com/podcasts/saintoftheday/our_holy_father_gregory_of_decapolis_8421::Program Text::Our Holy Father Gregory of Decapolis (842)::
+::Element Link::https://www.ancientfaith.com/podcasts/saintoftheday/great_martyr_mercurius_2593::Element Text::Great Martyr Mercurius (~259)::
 
-::Program Link::https://www.ancientfaith.com/podcasts/searchthescriptures::Program Text::Search the Scriptures::
+::Element Link::https://www.ancientfaith.com/podcasts/saintoftheday/holy_martyr_mercurius_of_smolensk_1238::Element Text::Holy Martyr Mercurius of Smolensk (1238)::
 
-::Program Link::https://www.ancientfaith.com/podcasts/searchthescriptureslive::Program Text::Search the Scriptures Live::
+::Element Link::https://www.ancientfaith.com/podcasts/searchthescriptures::Element Text::Search the Scriptures::
 
-::Program Link::https://www.ancientfaith.com/podcasts/searchthescriptureslive/herod_the_magi_a_star::Program Text::Herod, the Magi, a Star::
+::Element Link::https://www.ancientfaith.com/podcasts/searchthescriptureslive::Element Text::Search the Scriptures Live::
 
-::Program Link::https://www.ancientfaith.com/podcasts/secondliturgy::Program Text::The Second Liturgy::
+::Element Link::https://www.ancientfaith.com/podcasts/searchthescriptureslive/king_of_the_jews::Element Text::King of the Jews?::
 
-::Program Link::https://www.ancientfaith.com/podcasts/sermonsatstnicholas::Program Text::Sermons at St. Nicholas::
+::Element Link::https://www.ancientfaith.com/podcasts/secondliturgy::Element Text::The Second Liturgy::
 
-::Program Link::https://www.ancientfaith.com/podcasts/sermonsatstnicholas/what_is_eternal_life::Program Text::What is Eternal Life?::
+::Element Link::https://www.ancientfaith.com/podcasts/sermonsatstnicholas::Element Text::Sermons at St. Nicholas::
 
-::Program Link::https://www.ancientfaith.com/podcasts/signs::Program Text::Signs In Our Times::
+::Element Link::https://www.ancientfaith.com/podcasts/sermonsatstnicholas/godliness_with_contentment::Element Text::Godliness With Contentment::
 
-::Program Link::https://www.ancientfaith.com/podcasts/simplepath::Program Text::The Simple Path to God::
+::Element Link::https://www.ancientfaith.com/podcasts/signs::Element Text::Signs In Our Times::
 
-::Program Link::https://www.ancientfaith.com/podcasts/sost::Program Text::The Spirit of Saint Tikhon’s::
+::Element Link::https://www.ancientfaith.com/podcasts/simplepath::Element Text::The Simple Path to God::
 
-::Program Link::https://www.ancientfaith.com/podcasts/sost::Program Text::The Spirit of Saint Tikhon's::
+::Element Link::https://www.ancientfaith.com/podcasts/sost::Element Text::The Spirit of Saint Tikhon's::
 
-::Program Link::https://www.ancientfaith.com/podcasts/spiritandtruth::Program Text::Worship in Spirit and Truth::
+::Element Link::https://www.ancientfaith.com/podcasts/sost::Element Text::The Spirit of Saint Tikhon’s::
 
-::Program Link::https://www.ancientfaith.com/podcasts/stevethebuilder::Program Text::Steve the Builder::
+::Element Link::https://www.ancientfaith.com/podcasts/spiritandtruth::Element Text::Worship in Spirit and Truth::
 
-::Program Link::https://www.ancientfaith.com/podcasts/stewardshipcalling::Program Text::Stewardship Calling::
+::Element Link::https://www.ancientfaith.com/podcasts/stevethebuilder::Element Text::Steve the Builder::
 
-::Program Link::https://www.ancientfaith.com/podcasts/svsvoices::Program Text::Voices From St Vladimir’s Seminary::
+::Element Link::https://www.ancientfaith.com/podcasts/stewardshipcalling::Element Text::Stewardship Calling::
 
-::Program Link::https://www.ancientfaith.com/podcasts/svsvoices::Program Text::Voices From St Vladimir's Seminary::
+::Element Link::https://www.ancientfaith.com/podcasts/svsvoices::Element Text::Voices From St Vladimir's Seminary::
 
-::Program Link::https://www.ancientfaith.com/podcasts/telos::Program Text::The Telos Project::
+::Element Link::https://www.ancientfaith.com/podcasts/svsvoices::Element Text::Voices From St Vladimir’s Seminary::
 
-::Program Link::https://www.ancientfaith.com/podcasts/tendingthegarden::Program Text::Tending the Garden of our Hearts::
+::Element Link::https://www.ancientfaith.com/podcasts/telos::Element Text::The Telos Project::
 
-::Program Link::https://www.ancientfaith.com/podcasts/tendingthegarden/fulfill_not_destroy::Program Text::Fulfill, Not Destroy::
+::Element Link::https://www.ancientfaith.com/podcasts/tendingthegarden::Element Text::Tending the Garden of our Hearts::
 
-::Program Link::https://www.ancientfaith.com/podcasts/thepath::Program Text::The Path::
+::Element Link::https://www.ancientfaith.com/podcasts/tendingthegarden/gratitude2::Element Text::Gratitude::
 
-::Program Link::https://www.ancientfaith.com/podcasts/thetrench::Program Text::The Trench::
+::Element Link::https://www.ancientfaith.com/podcasts/thepath::Element Text::The Path::
 
-::Program Link::https://www.ancientfaith.com/podcasts/threemenbible::Program Text::3 Men and a Bible::
+::Element Link::https://www.ancientfaith.com/podcasts/thepath/november_24_2022::Element Text::November 24, 2022::
 
-::Program Link::https://www.ancientfaith.com/podcasts/timeeternal::Program Text::Time Eternal::
+::Element Link::https://www.ancientfaith.com/podcasts/thepath/november_25_2022::Element Text::November 25, 2022::
 
-::Program Link::https://www.ancientfaith.com/podcasts/todagloria::Program Text::Toda Gloria a Dios::
+::Element Link::https://www.ancientfaith.com/podcasts/thetrench::Element Text::The Trench::
 
-::Program Link::https://www.ancientfaith.com/podcasts/transforminglives::Program Text::Transforming Our Lives in Christ::
+::Element Link::https://www.ancientfaith.com/podcasts/threemenbible::Element Text::3 Men and a Bible::
 
-::Program Link::https://www.ancientfaith.com/podcasts/trapeza::Program Text::The Monastery Trapeza::
+::Element Link::https://www.ancientfaith.com/podcasts/timeeternal::Element Text::Time Eternal::
 
-::Program Link::https://www.ancientfaith.com/podcasts/voicefromisles::Program Text::A Voice from the Isles::
+::Element Link::https://www.ancientfaith.com/podcasts/todagloria::Element Text::Toda Gloria a Dios::
 
-::Program Link::https://www.ancientfaith.com/podcasts/walkinganancientpath::Program Text::Walking an Ancient Path::
+::Element Link::https://www.ancientfaith.com/podcasts/transforminglives::Element Text::Transforming Our Lives in Christ::
 
-::Program Link::https://www.ancientfaith.com/podcasts/wander::Program Text::Wander::
+::Element Link::https://www.ancientfaith.com/podcasts/trapeza::Element Text::The Monastery Trapeza::
 
-::Program Link::https://www.ancientfaith.com/podcasts/wanderingthedesert::Program Text::Wandering the Desert::
+::Element Link::https://www.ancientfaith.com/podcasts/voicefromisles::Element Text::A Voice from the Isles::
 
-::Program Link::https://www.ancientfaith.com/podcasts/watchfuleating::Program Text::Watchful Eating::
+::Element Link::https://www.ancientfaith.com/podcasts/walkinganancientpath::Element Text::Walking an Ancient Path::
 
-::Program Link::https://www.ancientfaith.com/podcasts/weareorthodoxy::Program Text::We Are Orthodoxy::
+::Element Link::https://www.ancientfaith.com/podcasts/wander::Element Text::Wander::
 
-::Program Link::https://www.ancientfaith.com/podcasts/wholecounsel::Program Text::The Whole Counsel of God::
+::Element Link::https://www.ancientfaith.com/podcasts/wanderingthedesert::Element Text::Wandering the Desert::
 
-::Program Link::https://www.ancientfaith.com/podcasts/wholecounsel/1_john_21_2::Program Text::1 John 2:1-2::
+::Element Link::https://www.ancientfaith.com/podcasts/watchfuleating::Element Text::Watchful Eating::
 
-::Program Link::https://www.ancientfaith.com/podcasts/wolfandcross::Program Text::The Wolf and the Cross::
+::Element Link::https://www.ancientfaith.com/podcasts/watchfuleating/judging_ourselves::Element Text::Judging Ourselves::
 
-::Program Link::https://www.ancientfaith.com/podcasts/woundedhealer::Program Text::The Wounded Healer::
+::Element Link::https://www.ancientfaith.com/podcasts/watchfuleating/traveling_the_road_of_repentance::Element Text::Traveling the Road of Repentance::
+
+::Element Link::https://www.ancientfaith.com/podcasts/weareorthodoxy::Element Text::We Are Orthodoxy::
+
+::Element Link::https://www.ancientfaith.com/podcasts/wholecounsel::Element Text::The Whole Counsel of God::
+
+::Element Link::https://www.ancientfaith.com/podcasts/wholecounsel/1_john_23_29::Element Text::1 John 2:3-29::
+
+::Element Link::https://www.ancientfaith.com/podcasts/wolfandcross::Element Text::The Wolf and the Cross::
+
+::Element Link::https://www.ancientfaith.com/podcasts/woundedhealer::Element Text::The Wounded Healer::

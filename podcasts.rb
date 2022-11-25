@@ -19,7 +19,7 @@ puts "There are #{links.size} links found"
 # title of the document
 puts doc.title
 
-class Program < Element 
+class Program < LinkElement
 
 end
 

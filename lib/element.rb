@@ -1,5 +1,5 @@
 # create an object to hold the podcasts/programs
-class Element < Struct.new(:link, :text)
+class LinkElement < Struct.new(:link, :text)
     # include all comparable operations
     include Comparable
     # add a method for rendering a custom

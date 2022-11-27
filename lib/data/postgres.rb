@@ -14,7 +14,7 @@ module Postgres
         @username = username
         @password = password
         @connection = "fakeconnection"
-        @connection = PG.connect(:hostaddr=>@hostaddr, :port=@port, :dbname=>@dbname, :username=>@username, :password=>@password)
+        @connection = PG.connect(:hostaddr=>@hostaddr, :port=>@port, :dbname=>@dbname, :user=>@username, :password=>@password)
       end
 
       def ingest_link_text(link_element)

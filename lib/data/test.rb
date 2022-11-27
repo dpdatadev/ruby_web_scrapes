@@ -1,13 +1,13 @@
-require_relative 'postgres.rb'
-require_relative '../element.rb'
+# frozen_string_literal: true
 
-table = Postgres::LinkElement::Table.new("articles", "orthochristian", "fake", 5423, "fake", "fake", "fake")
+require_relative 'postgres'
+require_relative '../element'
+require 'test/unit'
 
-puts table.inspect
-
-fake_element = LinkElement.new("fakelink.com", "fake link text")
-
-table.ingest_link_text(fake_element)
-
-
-
+class TestPostgres < Test::Unit::TestCase
+  def test_postgres_connection_is_valid
+    table = Postgres::LinkElement::Table.new('articles', 'orthochristian', '23.239.16.24', 5432, 'scrapedata',
+                                             'linpostgres', 'KHrdU1JRn9H_8EsO')
+    assert_not_nil table
+  end
+end

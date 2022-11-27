@@ -1,0 +1,9 @@
+dpdatadev@gmail.com -- 11/27/2022
+Refactor into single class that can be called from the command line and pass element configuration.
+Call it "LinkScraper" or "LinkFetcher".
+Use Postgres module/class to encapsulate the insert logic/data access logic.
+enforce DRY
+
+add a few more unit tests
+clean up credentials
+add rake tasks?

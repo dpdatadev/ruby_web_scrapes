@@ -19,7 +19,7 @@ module Postgres
 
       def ingest_link_text(link_element)
         insert_sql = "INSERT INTO #{@schema}.#{@table}(link, text)VALUES($1, $2)"
-        data_values = [article.link, article.text]
+        data_values = [link_element.link, link_element.text]
         connection.exec_params(insert_sql, data_values)
         data_log.info("INSERTING VALUES: #{data_values}}")
       end

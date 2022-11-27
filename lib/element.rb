@@ -1,4 +1,4 @@
-# create an object to hold the podcasts/programs
+# create an object to hold links
 class LinkElement < Struct.new(:link, :text)
     # include all comparable operations
     include Comparable

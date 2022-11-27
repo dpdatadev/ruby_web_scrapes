@@ -1,15 +1,27 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    language_server-protocol (3.17.0.1)
     nokogiri (1.13.9-x64-mingw-ucrt)
       racc (~> 1.4)
+    pg (1.4.5-x64-mingw-ucrt)
+    prettier_print (1.1.0)
     racc (1.6.0)
+    ruby-lsp (0.3.6)
+      language_server-protocol (~> 3.17.0)
+      sorbet-runtime
+      syntax_tree (>= 4.0.2, < 5.0.0)
+    sorbet-runtime (0.5.10564)
+    syntax_tree (4.3.0)
+      prettier_print (>= 1.0.2)
 
 PLATFORMS
   x64-mingw-ucrt
 
 DEPENDENCIES
   nokogiri
+  pg
+  ruby-lsp (~> 0.3.6)
 
 BUNDLED WITH
    2.3.7

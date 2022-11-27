@@ -53,15 +53,15 @@
 
 ::Element Link::https://www.ancientfaith.com/podcasts/dailyscriptures::Element Text::Daily Orthodox Scriptures::
 
-::Element Link::https://www.ancientfaith.com/podcasts/dailyscriptures/november_24_2022::Element Text::November 24, 2022::
-
 ::Element Link::https://www.ancientfaith.com/podcasts/dailyscriptures/november_25_2022::Element Text::November 25, 2022::
+
+::Element Link::https://www.ancientfaith.com/podcasts/dailyscriptures/november_26_2022::Element Text::November 26, 2022::
 
 ::Element Link::https://www.ancientfaith.com/podcasts/dailyscriptureskids::Element Text::Daily Orthodox Scriptures for Kids::
 
-::Element Link::https://www.ancientfaith.com/podcasts/dailyscriptureskids/november_24_2022::Element Text::November 24, 2022::
-
 ::Element Link::https://www.ancientfaith.com/podcasts/dailyscriptureskids/november_25_2022::Element Text::November 25, 2022::
+
+::Element Link::https://www.ancientfaith.com/podcasts/dailyscriptureskids/november_26_2022::Element Text::November 26, 2022::
 
 ::Element Link::https://www.ancientfaith.com/podcasts/divineliturgy::Element Text::The Divine Liturgy::
 
@@ -195,9 +195,11 @@
 
 ::Element Link::https://www.ancientfaith.com/podcasts/madetobeakingdom/thanksgiving_language_and_ritual::Element Text::Thanksgiving - language and ritual::
 
+::Element Link::https://www.ancientfaith.com/podcasts/monkseyes::Element Text::Through a Monk’s Eyes::
+
 ::Element Link::https://www.ancientfaith.com/podcasts/monkseyes::Element Text::Through a Monk's Eyes::
 
-::Element Link::https://www.ancientfaith.com/podcasts/monkseyes::Element Text::Through a Monk’s Eyes::
+::Element Link::https://www.ancientfaith.com/podcasts/monkseyes/gripped_by_sin_why_doesnt_christ_help::Element Text::Gripped by Sin. Why doesn’t Christ help?::
 
 ::Element Link::https://www.ancientfaith.com/podcasts/monkseyes/habitual_sin_how_to_move_forward::Element Text::Habitual Sin: How To Move Forward::
 
@@ -259,7 +261,7 @@
 
 ::Element Link::https://www.ancientfaith.com/podcasts/saintoftheday/great_martyr_mercurius_2593::Element Text::Great Martyr Mercurius (~259)::
 
-::Element Link::https://www.ancientfaith.com/podcasts/saintoftheday/holy_martyr_mercurius_of_smolensk_1238::Element Text::Holy Martyr Mercurius of Smolensk (1238)::
+::Element Link::https://www.ancientfaith.com/podcasts/saintoftheday/our_holy_father_alypius_the_stylite_607::Element Text::Our Holy Father Alypius the Stylite (~607)::
 
 ::Element Link::https://www.ancientfaith.com/podcasts/searchthescriptures::Element Text::Search the Scriptures::
 
@@ -277,9 +279,9 @@
 
 ::Element Link::https://www.ancientfaith.com/podcasts/simplepath::Element Text::The Simple Path to God::
 
-::Element Link::https://www.ancientfaith.com/podcasts/sost::Element Text::The Spirit of Saint Tikhon's::
-
 ::Element Link::https://www.ancientfaith.com/podcasts/sost::Element Text::The Spirit of Saint Tikhon’s::
+
+::Element Link::https://www.ancientfaith.com/podcasts/sost::Element Text::The Spirit of Saint Tikhon's::
 
 ::Element Link::https://www.ancientfaith.com/podcasts/spiritandtruth::Element Text::Worship in Spirit and Truth::
 
@@ -298,8 +300,6 @@
 ::Element Link::https://www.ancientfaith.com/podcasts/tendingthegarden/gratitude2::Element Text::Gratitude::
 
 ::Element Link::https://www.ancientfaith.com/podcasts/thepath::Element Text::The Path::
-
-::Element Link::https://www.ancientfaith.com/podcasts/thepath/november_24_2022::Element Text::November 24, 2022::
 
 ::Element Link::https://www.ancientfaith.com/podcasts/thepath/november_25_2022::Element Text::November 25, 2022::
 
@@ -326,8 +326,6 @@
 ::Element Link::https://www.ancientfaith.com/podcasts/watchfuleating::Element Text::Watchful Eating::
 
 ::Element Link::https://www.ancientfaith.com/podcasts/watchfuleating/judging_ourselves::Element Text::Judging Ourselves::
-
-::Element Link::https://www.ancientfaith.com/podcasts/watchfuleating/traveling_the_road_of_repentance::Element Text::Traveling the Road of Repentance::
 
 ::Element Link::https://www.ancientfaith.com/podcasts/weareorthodoxy::Element Text::We Are Orthodoxy::
 

@@ -2,8 +2,17 @@
 
 require 'nokogiri'
 require 'open-uri'
+require 'logger'
+require 'pg'
 
 require_relative 'lib/element.rb'
+
+# set up logger and data store
+log_file = File.open("database.log", File::WRONLY | File::APPEND)
+
+data_log = Logger.new(log_file)
+
+connection = PG.connect(:hostaddr=>"23.239.16.24", :port=>5432, :dbname=>"scrapedata", :user=>"linpostgres", :password=>"KHrdU1JRn9H_8EsO")
 
 DEBUG = 1
 
@@ -42,6 +51,14 @@ File.open('podcast_data.txt', 'w') do |file|
   recent_programs.each do |program|
     file << program.to_s
   end
+end
+
+# save to database
+recent_programs.each do |program|
+  insert_sql = 'INSERT INTO podcasts.ancientfaith(link, text)VALUES($1, $2)'
+  data_values = [program.link, program.text]
+  connection.exec_params(insert_sql, data_values)
+  data_log.info("INSERTING VALUES: #{data_values}}")
 end
 
 # get final count

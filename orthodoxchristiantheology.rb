@@ -56,6 +56,8 @@ File.open("orthodoxchristiantheology.txt", "w") do |file|
   end
 end
 
+connection.exec('TRUNCATE TABLE articles.orthodoxchristiantheology')
+
 # save to database
 recent_articles.each do |article|
   insert_sql = 'INSERT INTO articles.orthodoxchristiantheology(link, text)VALUES($1, $2)'

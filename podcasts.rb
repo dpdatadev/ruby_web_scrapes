@@ -53,6 +53,8 @@ File.open('podcast_data.txt', 'w') do |file|
   end
 end
 
+connection.exec('TRUNCATE TABLE podcasts.ancientfaith')
+
 # save to database
 recent_programs.each do |program|
   insert_sql = 'INSERT INTO podcasts.ancientfaith(link, text)VALUES($1, $2)'

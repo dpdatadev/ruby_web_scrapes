@@ -76,6 +76,8 @@ File.open('readings_data.txt', 'w') do |file|
   end
 end
 
+connection.exec('TRUNCATE TABLE scriptures.ocadailyreadings;')
+
 recent_readings.each do |reading|
   insert_sql = 'INSERT INTO scriptures.ocadailyreadings(link, text)VALUES($1, $2)'
   data_values = [reading.link, reading.text]

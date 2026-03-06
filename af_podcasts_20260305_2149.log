@@ -1,0 +1,440 @@
+# Logfile created on 2026-03-05 21:49:09 -0600 by logger.rb/v1.7.0
+I, [2026-03-05T21:49:09.945496 #1463299]  INFO -- : Scraping https://www.ancientfaith.com/podcasts/?sort=latest_episodes
+I, [2026-03-05T21:49:10.871723 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/::Element Text::::
+
+I, [2026-03-05T21:49:10.872248 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/radio/::Element Text::Radio::
+
+I, [2026-03-05T21:49:10.872616 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/radio/live-shows/::Element Text::Live Shows::
+
+I, [2026-03-05T21:49:10.872978 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/::Element Text::Podcasts::
+
+I, [2026-03-05T21:49:10.874074 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/radio/sponsorships/::Element Text::Sponsorships::
+
+I, [2026-03-05T21:49:10.874609 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/radio/digital-m/::Element Text::Podcast and Digital Media Proposals::
+
+I, [2026-03-05T21:49:10.875026 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/publishing/::Element Text::Publishing::
+
+I, [2026-03-05T21:49:10.875418 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/topics/Ancient-Faith-Kids/::Element Text::Kids::
+
+I, [2026-03-05T21:49:10.875845 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/events/::Element Text::Events::
+
+I, [2026-03-05T21:49:10.876259 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/support/::Element Text::Support::
+
+I, [2026-03-05T21:49:10.876633 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/about/::Element Text::About::
+
+I, [2026-03-05T21:49:10.877301 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/ceo-journal/::Element Text::CEO Journal::
+
+I, [2026-03-05T21:49:10.877806 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.comhttps://store.ancientfaith.com/::Element Text::Store::
+
+I, [2026-03-05T21:49:10.878374 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/login/::Element Text::Login::
+
+I, [2026-03-05T21:49:10.879035 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/radio/::Element Text::Radio::
+
+I, [2026-03-05T21:49:10.880138 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/radio/live-shows/::Element Text::Live Shows::
+
+I, [2026-03-05T21:49:10.880715 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/::Element Text::Podcasts::
+
+I, [2026-03-05T21:49:10.881255 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/radio/sponsorships/::Element Text::Sponsorships::
+
+I, [2026-03-05T21:49:10.881764 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/radio/digital-m/::Element Text::Podcast and Digital Media Proposals::
+
+I, [2026-03-05T21:49:10.882359 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/publishing/::Element Text::Publishing::
+
+I, [2026-03-05T21:49:10.883705 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/topics/Ancient-Faith-Kids/::Element Text::Kids::
+
+I, [2026-03-05T21:49:10.884195 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/events/::Element Text::Events::
+
+I, [2026-03-05T21:49:10.885478 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/support/::Element Text::Support::
+
+I, [2026-03-05T21:49:10.887314 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/about/::Element Text::About::
+
+I, [2026-03-05T21:49:10.888175 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/ceo-journal/::Element Text::CEO Journal::
+
+I, [2026-03-05T21:49:10.888726 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.comhttps://store.ancientfaith.com/::Element Text::Store::
+
+I, [2026-03-05T21:49:10.892354 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/login/::Element Text::Login::
+
+I, [2026-03-05T21:49:10.896368 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com?filter=daily&sort=latest_episodes::Element Text::Daily Bread::
+
+I, [2026-03-05T21:49:10.897801 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com?filter=kids&sort=latest_episodes::Element Text::Kids::
+
+I, [2026-03-05T21:49:10.898682 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com?filter=live&sort=latest_episodes::Element Text::Live Shows::
+
+I, [2026-03-05T21:49:10.899296 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com?filter=active&sort=latest_episodes::Element Text::Active::
+
+I, [2026-03-05T21:49:10.899798 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com?filter=collections&sort=latest_episodes::Element Text::Collections::
+
+I, [2026-03-05T21:49:10.900400 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com?filter=archived&sort=latest_episodes::Element Text::Archived::
+
+I, [2026-03-05T21:49:10.900964 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com?sort=title::Element Text::Alphabetical::
+
+I, [2026-03-05T21:49:10.901496 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com?sort=title_reverse::Element Text::Reverse Alphabetical::
+
+I, [2026-03-05T21:49:10.902007 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com?sort=entry_date::Element Text::Oldest First::
+
+I, [2026-03-05T21:49:10.902470 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com?sort=entry_date_reverse::Element Text::Newest First::
+
+I, [2026-03-05T21:49:10.902974 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com?sort=latest_episodes::Element Text::Latest Episodes::
+
+I, [2026-03-05T21:49:10.903434 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/greattales/::Element Text::::
+
+I, [2026-03-05T21:49:10.903842 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/greattales/::Element Text::The Great Tales::
+
+I, [2026-03-05T21:49:10.904305 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/greattales/::Element Text::View Episodes::
+
+I, [2026-03-05T21:49:10.904718 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/orthodox-explorers-club/::Element Text::::
+
+I, [2026-03-05T21:49:10.905175 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/orthodox-explorers-club/::Element Text::Orthodox Explorers Club::
+
+I, [2026-03-05T21:49:10.905634 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/orthodox-explorers-club/::Element Text::View Episodes::
+
+I, [2026-03-05T21:49:10.906105 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/the-great-rood-screen/::Element Text::::
+
+I, [2026-03-05T21:49:10.906671 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/the-great-rood-screen/::Element Text::The Great Rood Screen::
+
+I, [2026-03-05T21:49:10.907239 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/the-great-rood-screen/::Element Text::View Episodes::
+
+I, [2026-03-05T21:49:10.907784 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/thepath/::Element Text::::
+
+I, [2026-03-05T21:49:10.908384 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/thepath/::Element Text::The Path::
+
+I, [2026-03-05T21:49:10.908879 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/thepath/::Element Text::View Episodes::
+
+I, [2026-03-05T21:49:10.909396 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/saintoftheday/::Element Text::::
+
+I, [2026-03-05T21:49:10.909999 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/saintoftheday/::Element Text::Saint of the Day::
+
+I, [2026-03-05T21:49:10.910572 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/saintoftheday/::Element Text::View Episodes::
+
+I, [2026-03-05T21:49:10.911099 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/tendingthegarden/::Element Text::::
+
+I, [2026-03-05T21:49:10.911591 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/tendingthegarden/::Element Text::Tending the Garden of our Hearts::
+
+I, [2026-03-05T21:49:10.912109 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/tendingthegarden/::Element Text::View Episodes::
+
+I, [2026-03-05T21:49:10.912707 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/dailyscriptures/::Element Text::::
+
+I, [2026-03-05T21:49:10.913373 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/dailyscriptures/::Element Text::Daily Orthodox Scriptures::
+
+I, [2026-03-05T21:49:10.914051 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/dailyscriptures/::Element Text::View Episodes::
+
+I, [2026-03-05T21:49:10.914910 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/dailyscriptureskids/::Element Text::::
+
+I, [2026-03-05T21:49:10.915644 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/dailyscriptureskids/::Element Text::Daily Orthodox Scriptures for Kids::
+
+I, [2026-03-05T21:49:10.916181 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/dailyscriptureskids/::Element Text::View Episodes::
+
+I, [2026-03-05T21:49:10.916656 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/lightpast/::Element Text::::
+
+I, [2026-03-05T21:49:10.917176 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/lightpast/::Element Text::Light Through the Past::
+
+I, [2026-03-05T21:49:10.917560 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/lightpast/::Element Text::View Episodes::
+
+I, [2026-03-05T21:49:10.917898 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/welcoming-gifts/::Element Text::::
+
+I, [2026-03-05T21:49:10.918235 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/welcoming-gifts/::Element Text::Welcoming Gifts::
+
+I, [2026-03-05T21:49:10.918607 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/welcoming-gifts/::Element Text::View Episodes::
+
+I, [2026-03-05T21:49:10.919643 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/transforminglives/::Element Text::::
+
+I, [2026-03-05T21:49:10.920391 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/transforminglives/::Element Text::Transforming Our Lives in Christ::
+
+I, [2026-03-05T21:49:10.921008 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/transforminglives/::Element Text::View Episodes::
+
+I, [2026-03-05T21:49:10.921565 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/parables/::Element Text::::
+
+I, [2026-03-05T21:49:10.922037 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/parables/::Element Text::Parables of Community::
+
+I, [2026-03-05T21:49:10.922455 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/parables/::Element Text::View Episodes::
+
+I, [2026-03-05T21:49:10.923044 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/easternchristianinsights/::Element Text::::
+
+I, [2026-03-05T21:49:10.923565 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/easternchristianinsights/::Element Text::Eastern Christian Insights::
+
+I, [2026-03-05T21:49:10.924124 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/easternchristianinsights/::Element Text::View Episodes::
+
+I, [2026-03-05T21:49:10.924747 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/nootherfoundation/::Element Text::::
+
+I, [2026-03-05T21:49:10.925295 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/nootherfoundation/::Element Text::No Other Foundation::
+
+I, [2026-03-05T21:49:10.926029 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/nootherfoundation/::Element Text::View Episodes::
+
+I, [2026-03-05T21:49:10.926761 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/wholecounsel/::Element Text::::
+
+I, [2026-03-05T21:49:10.927407 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/wholecounsel/::Element Text::The Whole Counsel of God::
+
+I, [2026-03-05T21:49:10.928151 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/wholecounsel/::Element Text::View Episodes::
+
+I, [2026-03-05T21:49:10.928767 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/digital_discernment/::Element Text::::
+
+I, [2026-03-05T21:49:10.929421 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/digital_discernment/::Element Text::Digital Discernment::
+
+I, [2026-03-05T21:49:10.930099 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/digital_discernment/::Element Text::View Episodes::
+
+I, [2026-03-05T21:49:10.930773 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/fr-andrew-stephen-damick-lectures/::Element Text::::
+
+I, [2026-03-05T21:49:10.931520 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/fr-andrew-stephen-damick-lectures/::Element Text::The Lectures of Fr. Andrew Stephen Damick::
+
+I, [2026-03-05T21:49:10.932362 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/fr-andrew-stephen-damick-lectures/::Element Text::View Episodes::
+
+I, [2026-03-05T21:49:10.933123 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/livewiththelouhs/::Element Text::::
+
+I, [2026-03-05T21:49:10.933763 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/livewiththelouhs/::Element Text::Live with the Louhs::
+
+I, [2026-03-05T21:49:10.934365 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/livewiththelouhs/::Element Text::View Episodes::
+
+I, [2026-03-05T21:49:10.934911 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/aftodaylive/::Element Text::::
+
+I, [2026-03-05T21:49:10.935447 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/aftodaylive/::Element Text::Ancient Faith Today Live::
+
+I, [2026-03-05T21:49:10.936075 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/aftodaylive/::Element Text::View Episodes::
+
+I, [2026-03-05T21:49:10.936690 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/orthodoxpilgrim/::Element Text::::
+
+I, [2026-03-05T21:49:10.937154 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/orthodoxpilgrim/::Element Text::The Orthodox Pilgrim::
+
+I, [2026-03-05T21:49:10.937710 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/orthodoxpilgrim/::Element Text::View Episodes::
+
+I, [2026-03-05T21:49:10.938253 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/sacramental/::Element Text::::
+
+I, [2026-03-05T21:49:10.938729 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/sacramental/::Element Text::Sacramental Living::
+
+I, [2026-03-05T21:49:10.939209 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/sacramental/::Element Text::View Episodes::
+
+I, [2026-03-05T21:49:10.939773 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/lordofspirits/::Element Text::::
+
+I, [2026-03-05T21:49:10.940380 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/lordofspirits/::Element Text::The Lord of Spirits::
+
+I, [2026-03-05T21:49:10.940898 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/lordofspirits/::Element Text::View Episodes::
+
+I, [2026-03-05T21:49:10.941445 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/searchthescriptureslive/::Element Text::::
+
+I, [2026-03-05T21:49:10.941984 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/searchthescriptureslive/::Element Text::Search the Scriptures Live::
+
+I, [2026-03-05T21:49:10.942521 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/searchthescriptureslive/::Element Text::View Episodes::
+
+I, [2026-03-05T21:49:10.943095 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/the_roots_of_everything/::Element Text::::
+
+I, [2026-03-05T21:49:10.943663 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/the_roots_of_everything/::Element Text::The Roots of Everything::
+
+I, [2026-03-05T21:49:10.944269 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/the_roots_of_everything/::Element Text::View Episodes::
+
+I, [2026-03-05T21:49:10.944854 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/divineliturgy/::Element Text::::
+
+I, [2026-03-05T21:49:10.945396 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/divineliturgy/::Element Text::The Divine Liturgy::
+
+I, [2026-03-05T21:49:10.946031 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/divineliturgy/::Element Text::View Episodes::
+
+I, [2026-03-05T21:49:10.946531 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/orthodoxylive/::Element Text::::
+
+I, [2026-03-05T21:49:10.946996 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/orthodoxylive/::Element Text::Orthodoxy Live::
+
+I, [2026-03-05T21:49:10.947528 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/orthodoxylive/::Element Text::View Episodes::
+
+I, [2026-03-05T21:49:10.948060 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/letusattend/::Element Text::::
+
+I, [2026-03-05T21:49:10.948664 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/letusattend/::Element Text::Let Us Attend::
+
+I, [2026-03-05T21:49:10.949277 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/letusattend/::Element Text::View Episodes::
+
+I, [2026-03-05T21:49:10.949876 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/healingunresolved/::Element Text::::
+
+I, [2026-03-05T21:49:10.950434 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/healingunresolved/::Element Text::Healing the Unresolved::
+
+I, [2026-03-05T21:49:10.950978 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/healingunresolved/::Element Text::View Episodes::
+
+I, [2026-03-05T21:49:10.951542 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/comeandsee/::Element Text::::
+
+I, [2026-03-05T21:49:10.952079 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/comeandsee/::Element Text::Come and See::
+
+I, [2026-03-05T21:49:10.952628 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/comeandsee/::Element Text::View Episodes::
+
+I, [2026-03-05T21:49:10.953109 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/areopagus/::Element Text::::
+
+I, [2026-03-05T21:49:10.953601 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/areopagus/::Element Text::The Areopagus::
+
+I, [2026-03-05T21:49:10.954141 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/podcasts/areopagus/::Element Text::View Episodes::
+
+I, [2026-03-05T21:49:10.954564 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/workwithus/::Element Text::Work With Us::
+
+I, [2026-03-05T21:49:10.954934 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/about/::Element Text::About::
+
+I, [2026-03-05T21:49:10.955282 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/support/::Element Text::Donate::
+
+I, [2026-03-05T21:49:10.955617 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/about/::Element Text::Contact::
+
+I, [2026-03-05T21:49:10.955973 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.comhttps://store.ancientfaith.com::Element Text::Ancient Faith Store::
+
+I, [2026-03-05T21:49:10.956333 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.comhttps://www.facebook.com/ancientfaithministries::Element Text::::
+
+I, [2026-03-05T21:49:10.956714 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.comhttps://www.youtube.com/@AncientFaithMinistries::Element Text::::
+
+I, [2026-03-05T21:49:10.957129 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.comhttps://www.instagram.com/ancientfaithministries/::Element Text::::
+
+I, [2026-03-05T21:49:10.957481 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.comhttps://www.tiktok.com/@ancientfaithministries::Element Text::::
+
+I, [2026-03-05T21:49:10.957859 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/::Element Text::::
+
+I, [2026-03-05T21:49:10.958241 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com/topics/Ancient-Faith-Kids/::Element Text::::
+
+I, [2026-03-05T21:49:10.958641 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.comhttps://www.facebook.com/ancientfaithkids::Element Text::::
+
+I, [2026-03-05T21:49:10.959090 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.comhttps://www.youtube.com/@ancientfaith4kids::Element Text::::
+
+I, [2026-03-05T21:49:10.959637 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.comhttps://www.instagram.com/ancientfaithkids/::Element Text::::
+
+I, [2026-03-05T21:49:10.960457 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.comhttps://afm.kindful.com/?campaign=1193135::Element Text::Donate::
+
+I, [2026-03-05T21:49:10.961331 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com::Element Text::Global Music::
+
+I, [2026-03-05T21:49:10.962106 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com::Element Text::English Talk::
+
+I, [2026-03-05T21:49:10.962848 #1463299]  INFO -- : 
+::Element Link::https://www.ancientfaith.com::Element Text::English Music::
+

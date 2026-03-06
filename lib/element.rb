@@ -1,5 +1,12 @@
 # frozen_string_literal: true
 
+# https://www.delftstack.com/howto/ruby/ruby-nil-empty-blank/
+class Object
+  def blank?
+    respond_to?(:empty?) ? empty? : !self
+  end
+end
+
 # create an object to hold links
 LinkElement = Struct.new(:link, :text) do
   # include all comparable operations

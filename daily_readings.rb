@@ -1,18 +1,18 @@
 # frozen_string_literal: true
 
 require 'nokogiri'
-require 'open-uri'
+require 'httparty' # TODO, write classes with include HTTParty
 require 'logger'
-require 'pg'
-
+#require 'pg'
 require_relative 'lib/element'
 
 # set up logger and data store
-log_file = File.open("database.log", File::WRONLY | File::APPEND)
+#log_file = File.open("database.log", File::WRONLY | File::APPEND)
 
-data_log = Logger.new(log_file)
+#data_log = Logger.new(log_file)
 
-connection = PG.connect(:hostaddr=>"23.239.16.24", :port=>5432, :dbname=>"scrapedata", :user=>"linpostgres", :password=>"KHrdU1JRn9H_8EsO")
+#Setup Lakebase Postgres or Heroku Postgres...or some other Postgres later
+#connection = PG.connect(:hostaddr=>"23.239.16.24", :port=>5432, :dbname=>"scrapedata", :user=>"linpostgres", :password=>"KHrdU1JRn9H_8EsO")
 
 
 # config variables
@@ -22,7 +22,8 @@ LOG_OUTPUT = 1
 
 # function for viewing/storing the reading texts
 def log_reading_text(reading_link, output_file)
-  reading_doc = Nokogiri::HTML(URI.open(reading_link))
+  reading_raw = HTTParty.get(reading_link).body
+  reading_doc = Nokogiri::HTML(reading_raw)
   reading_title = reading_doc.search('#main #content section article h2')
   reading_text = reading_doc.search('#main #content section article dl dd')
 
@@ -41,7 +42,14 @@ end
 
 # MAIN
 # load the page
-doc = Nokogiri::HTML(URI.open('https://www.oca.org/readings'))
+URL = "https://www.oca.org/readings/daily"
+#scrape_page = URI.open(URL)
+scrape_page = HTTParty.get(URL)
+scrape_data = scrape_page.body
+
+#pp scrape_page.code, scrape_page.message, scrape_page.headers.inspect
+
+doc = Nokogiri::HTML(scrape_data)
 
 # find all links
 links = doc.search('a')
@@ -76,6 +84,7 @@ File.open('readings_data.txt', 'w') do |file|
   end
 end
 
+=begin
 connection.exec('TRUNCATE TABLE scriptures.ocadailyreadings;')
 
 recent_readings.each do |reading|
@@ -84,7 +93,7 @@ recent_readings.each do |reading|
   connection.exec_params(insert_sql, data_values)
   data_log.info("INSERTING VALUES: #{data_values}}")
 end
-
+=end
 # get final count
 puts "#{recent_readings.size} Reading elements scraped"
 

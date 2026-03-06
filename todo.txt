@@ -1,3 +1,19 @@
+#WE BACK BABY
+March 5th, 2026 ..
+We're coming back to this project.
+
+TODO:
+Upgrade open-uri to HTTPARTY
+Extract logic to Rails for frontend configuration and display (later)
+Swap(add?) Postgres for sqlite3/duckdb, local data ftw.
+
+sidenote:
+./linkserver (scraper_server.go), is a fast microservice that immediately returns
+all links on a webpage, passed as a query param, into JSON.
+This may not be useful for this project, as getting all the links in Nokogiri
+is just one or two line of code. We still have to extract the content.
+
+OLD:
 dpdatadev@gmail.com -- 11/27/2022
 Refactor into single class that can be called from the command line and pass element configuration.
 Call it "LinkScraper" or "LinkFetcher".

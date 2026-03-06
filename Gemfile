@@ -1,7 +1,9 @@
-source "https://rubygems.org"
+# frozen_string_literal: true
 
-gem "nokogiri"
-gem "pg"
-gem "sqlite3"
-gem "httparty"
-gem "ruby-lsp", "~> 0.3.6", :group => :development
+source 'https://rubygems.org'
+
+gem 'httparty'
+gem 'nokogiri'
+gem 'pg'
+gem 'ruby-lsp', '~> 0.3.6', group: :development
+gem 'sqlite3'

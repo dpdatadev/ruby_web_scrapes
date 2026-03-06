@@ -1,17 +1,19 @@
+# frozen_string_literal: true
+
 require 'open-uri'
 require 'nokogiri'
 require 'logger'
 require 'pg'
 
-require_relative 'lib/element.rb'
+require_relative 'lib/element'
 
 # set up logger and data store
-log_file = File.open("database.log", File::WRONLY | File::APPEND)
+log_file = File.open('database.log', File::WRONLY | File::APPEND)
 
 data_log = Logger.new(log_file)
 
-connection = PG.connect(:hostaddr=>"23.239.16.24", :port=>5432, :dbname=>"scrapedata", :user=>"linpostgres", :password=>"")
-
+connection = PG.connect(hostaddr: '23.239.16.24', port: 5432, dbname: 'scrapedata', user: 'linpostgres',
+                        password: '')
 
 DEBUG = 1
 
@@ -30,17 +32,16 @@ puts "There are #{links.size} total links found (not all may be harvested)"
 html = doc.search('#posts article .post-title a')
 
 class Article < LinkElement
-
 end
 
 # array to store the recent article objects
 recent_articles = []
 html.each do |article_content|
-  article_text = article_content.text.strip()
+  article_text = article_content.text.strip
   article_link = article_content['href']
 
-  if !article_link.include? "orthodoxchristiantheology.com"
-    article_link = article_content['href'].prepend("https://www.orthodoxchristiantheology.com")
+  unless article_link.include? 'orthodoxchristiantheology.com'
+    article_link = article_content['href'].prepend('https://www.orthodoxchristiantheology.com')
   end
 
   a = Article.new(article_link, article_text)
@@ -50,7 +51,7 @@ end
 
 recent_articles = recent_articles.uniq.sort
 
-File.open("orthodoxchristiantheology.txt", "w") do |file|
+File.open('orthodoxchristiantheology.txt', 'w') do |file|
   recent_articles.each do |article|
     file << article.to_s
   end

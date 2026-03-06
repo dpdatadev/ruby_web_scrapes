@@ -3,18 +3,18 @@
 require 'nokogiri'
 require 'httparty'
 require 'logger'
-#require 'pg'
+# require 'pg'
 
 require_relative 'lib/element'
 
-#connection = PG.connect(:hostaddr=>"23.239.16.24", :port=>5432, :dbname=>"scrapedata", :user=>"linpostgres", :password=>"")
+# connection = PG.connect(:hostaddr=>"23.239.16.24", :port=>5432, :dbname=>"scrapedata", :user=>"linpostgres", :password=>"")
 
 DEBUG = 1
 
 # program configuration
 
 # set up logger and data store
-#data_log_file = File.open("database.log", File::WRONLY | File::APPEND)
+# data_log_file = File.open("database.log", File::WRONLY | File::APPEND)
 
 # logger
 time_stamp = Time.now.strftime('%Y%m%d_%H%M')
@@ -40,36 +40,34 @@ puts "There are #{links.size} links found"
 # title of the document
 puts doc.title
 
-class Podcast < LinkElement 
+class Podcast < LinkElement
 end
 
 # array to store the recent program objects
 recent_podcasts = []
 
-
 links.each do |podcast_content|
   link = podcast_content['href']
   text = podcast_content.children.text.strip
-  if !link.nil?
+  next if link.nil?
 
-    if DEBUG == 1
-      pp link 
-      pp text
-    end
-
-    podcast_link = Podcast.new(link.prepend('https://www.ancientfaith.com'), text)
-    recent_podcasts.push(podcast_link) if !podcast_link.text.blank?
-    data_log.info(podcast_link.to_s)
+  if DEBUG == 1
+    pp link
+    pp text
   end
+
+  podcast_link = Podcast.new(link.prepend('https://www.ancientfaith.com'), text)
+  recent_podcasts.push(podcast_link) unless podcast_link.text.blank?
 end
 
 # clean up, remove duplicate entries, and alphabetize the objects
-recent_podcasts.delete_if { |link| link[:text] == "View Episodes" }
+recent_podcasts.delete_if { |link| link[:text] == 'View Episodes' }
 recent_podcasts = recent_podcasts.uniq.sort
 
 # display contents
 File.open('podcast_data.txt', 'w') do |file|
   recent_podcasts.each do |podcast|
+    data_log.info(podcast.to_s)
     file << podcast.to_s
   end
 end

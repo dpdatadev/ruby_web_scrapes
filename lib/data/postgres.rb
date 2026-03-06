@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'logger'
 require 'pg'
 
@@ -5,6 +7,7 @@ module Postgres
   module LinkElement
     class Table
       attr_reader :schema, :table, :hostaddr, :port, :dbname, :username, :password, :connection
+
       def initialize(schema, table, hostaddr, port, dbname, username, password)
         @schema = schema
         @table = table
@@ -13,9 +16,10 @@ module Postgres
         @dbname = dbname
         @username = username
         @password = password
-        @connection = PG.connect(:hostaddr=>@hostaddr, :port=>@port, :dbname=>@dbname, :user=>@username, :password=>@password)
+        @connection = PG.connect(hostaddr: @hostaddr, port: @port, dbname: @dbname, user: @username,
+                                 password: @password)
         # set up logger and data store
-        @log_file = File.open("database.log", File::WRONLY | File::APPEND)
+        @log_file = File.open('database.log', File::WRONLY | File::APPEND)
         @data_log = Logger.new(log_file)
       end
 
@@ -25,8 +29,6 @@ module Postgres
         @connection.exec_params(insert_sql, data_values)
         @data_log.info("INSERTING VALUES: #{data_values}}")
       end
-
     end
   end
 end
-

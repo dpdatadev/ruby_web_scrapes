@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'open-uri'
 require 'nokogiri'
 
@@ -7,12 +9,12 @@ require 'pg'
 require_relative 'lib/element'
 
 # set up logger and data store
-log_file = File.open("database.log", File::WRONLY | File::APPEND)
+log_file = File.open('database.log', File::WRONLY | File::APPEND)
 
 data_log = Logger.new(log_file)
 
-connection = PG.connect(:hostaddr=>"23.239.16.24", :port=>5432, :dbname=>"scrapedata", :user=>"linpostgres", :password=>"")
-
+connection = PG.connect(hostaddr: '23.239.16.24', port: 5432, dbname: 'scrapedata', user: 'linpostgres',
+                        password: '')
 
 DEBUG = 1
 
@@ -29,17 +31,16 @@ puts "There are #{links.size} links found"
 puts doc.title
 
 class Article < LinkElement
-
 end
 
-html = doc.search(".list-articles-wide__uppertitle a")
+html = doc.search('.list-articles-wide__uppertitle a')
 
-#puts html
+# puts html
 
 recent_articles = []
 
 html.each do |article_content|
-  a = Article.new(article_content['href'], article_content.text.strip())
+  a = Article.new(article_content['href'], article_content.text.strip)
   recent_articles << a
 end
 

@@ -23,3 +23,53 @@ LinkElement = Struct.new(:link, :text) do
     self[:link] <=> other[:link]
   end
 end
+
+# TODO, OOP refactoring (3/6)
+
+# require 'httparty'
+# require 'nokogiri'
+# require 'json'
+# require 'logger'
+# require 'sqlite3'
+
+module Scrapers
+  class ScraperConfiguration
+    attr_accessor :options,
+                  :URL
+
+    def initialize(options)
+      @logfile = options[:log_file]
+      @URL = options[:URL]
+    end
+  end
+
+  class ElementScraper
+    attr_accessor :scrape_url, :debug
+    attr_reader :scrape_data
+
+    def initialize(scrape_url, debug)
+      @scrape_url = scrape_url
+      @debug = debug
+      _bootstrap_app
+    end
+
+    def scrape
+      p @scrape_url if @debug
+    end
+
+    private
+
+    def _bootstrap_app
+      time_stamp = Time.now.strftime('%Y%m%d_%H%M')
+      log_file_name = "af_podcasts_#{time_stamp}.log"
+      Logger.new(log_file_name)
+      p log_file_name if @DEBUG == 1
+    end
+  end
+end
+# # testing
+# s = ElementScraper.new('https://www.oca.org/readings/daily', true)
+# pp s.to_s
+# pp af_scraper_config[:log_file]
+# sc = ScraperConfiguration.new(af_scraper_config)
+# pp sc.URL

@@ -45,12 +45,12 @@ module Scrapers
 
   class ElementScraper
     attr_accessor :scrape_url, :debug
-    attr_reader :scrape_data
+    attr_reader :scrape_data, :logger
 
     def initialize(scrape_url, debug)
       @scrape_url = scrape_url
       @debug = debug
-      _bootstrap_app
+      _bootstrap_app()
     end
 
     def scrape
@@ -62,7 +62,7 @@ module Scrapers
     def _bootstrap_app
       time_stamp = Time.now.strftime('%Y%m%d_%H%M')
       log_file_name = "af_podcasts_#{time_stamp}.log"
-      Logger.new(log_file_name)
+      @logger = Logger.new(log_file_name)
       p log_file_name if @DEBUG == 1
     end
   end

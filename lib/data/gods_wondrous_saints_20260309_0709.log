@@ -1,0 +1,9 @@
+# Logfile created on 2026-03-09 07:09:47 -0500 by logger.rb/v1.7.0
+I, [2026-03-09T07:09:47.938296 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/gods_wondrous_saints/", text="gods_wondrous_saints">
+I, [2026-03-09T07:09:47.938445 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/gods_wondrous_saints/?page=2", text="gods_wondrous_saints">
+I, [2026-03-09T07:09:47.938482 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/gods_wondrous_saints/?page=8", text="gods_wondrous_saints">
+I, [2026-03-09T07:09:47.938503 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/gods_wondrous_saints/st-haralambos-of-magnesia/", text="gods_wondrous_saints/st-haralambos-of-magnesia">
+I, [2026-03-09T07:09:47.939158 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/gods_wondrous_saints/st-maximus-the-confessor/", text="gods_wondrous_saints/st-maximus-the-confessor">
+I, [2026-03-09T07:09:47.939317 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/gods_wondrous_saints/st-photini-the-samaritan-woman/", text="gods_wondrous_saints/st-photini-the-samaritan-woman">
+I, [2026-03-09T07:09:47.939369 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/gods_wondrous_saints/st-tatiana-of-rome/", text="gods_wondrous_saints/st-tatiana-of-rome">
+I, [2026-03-09T07:09:47.939396 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/gods_wondrous_saints/sundays-of-lent/", text="gods_wondrous_saints/sundays-of-lent">

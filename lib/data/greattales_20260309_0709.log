@@ -1,0 +1,9 @@
+# Logfile created on 2026-03-09 07:09:48 -0500 by logger.rb/v1.7.0
+I, [2026-03-09T07:09:48.118244 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/greattales/", text="greattales">
+I, [2026-03-09T07:09:48.118392 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/greattales/?page=2", text="greattales">
+I, [2026-03-09T07:09:48.118440 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/greattales/?page=7", text="greattales">
+I, [2026-03-09T07:09:48.118481 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/greattales/dragonsbane-of-the-north/", text="greattales/dragonsbane-of-the-north">
+I, [2026-03-09T07:09:48.118516 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/greattales/the-cup-of-the-gjukings/", text="greattales/the-cup-of-the-gjukings">
+I, [2026-03-09T07:09:48.118546 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/greattales/the-quarrel-of-the-queens/", text="greattales/the-quarrel-of-the-queens">
+I, [2026-03-09T07:09:48.118567 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/greattales/the-rhizomatic-evolution-of-the-nibelung-dragon-slayer/", text="greattales/the-rhizomatic-evolution-of-the-nibelung-dragon-slayer">
+I, [2026-03-09T07:09:48.118589 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/greattales/the-scourge-of-god/", text="greattales/the-scourge-of-god">

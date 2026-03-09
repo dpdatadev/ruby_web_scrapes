@@ -1,10 +1,18 @@
 
-::Element Link::https://www.oca.org/readings/daily/2026/03/08/1::Element Text::Luke 24:36-53::
+::Element Link::https://www.oca.org/readings/daily/2026/03/09/1::Element Text::Isaiah 8:13-9:7::
 
-::Element Link::https://www.oca.org/readings/daily/2026/03/08/2::Element Text::Hebrews 7:26-8:2::
+::Element Link::https://www.oca.org/readings/daily/2026/03/09/2::Element Text::Genesis 6:9-22::
 
-::Element Link::https://www.oca.org/readings/daily/2026/03/08/3::Element Text::John 10:9-16::
+::Element Link::https://www.oca.org/readings/daily/2026/03/09/3::Element Text::Proverbs 8:1-21::
 
-::Element Link::https://www.oca.org/readings/daily/2026/03/08/4::Element Text::Hebrews 1:10-2:3::
+::Element Link::https://www.oca.org/readings/daily/2026/03/09/4::Element Text::Isaiah 43:9-14::
 
-::Element Link::https://www.oca.org/readings/daily/2026/03/08/5::Element Text::Mark 2:1-12::
+::Element Link::https://www.oca.org/readings/daily/2026/03/09/5::Element Text::Wisdom of Solomon 3:1-9::
+
+::Element Link::https://www.oca.org/readings/daily/2026/03/09/6::Element Text::Wisdom of Solomon 5:15-6:3::
+
+::Element Link::https://www.oca.org/readings/daily/2026/03/09/7::Element Text::Luke 21:12-19::
+
+::Element Link::https://www.oca.org/readings/daily/2026/03/09/8::Element Text::Hebrews 12:1-10::
+
+::Element Link::https://www.oca.org/readings/daily/2026/03/09/9::Element Text::Matthew 20:1-16::

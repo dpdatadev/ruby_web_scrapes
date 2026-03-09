@@ -1,9 +1,17 @@
 # frozen_string_literal: true
 
 # https://www.delftstack.com/howto/ruby/ruby-nil-empty-blank/
+# 
+#MONKEY MADNESS
 class Object
   def blank?
     respond_to?(:empty?) ? empty? : !self
+  end
+end
+
+class String 
+  def substring(word1, word2)
+    self.partition(word1).last.rpartition(word2).first.strip
   end
 end
 

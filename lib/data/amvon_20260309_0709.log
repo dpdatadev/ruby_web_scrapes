@@ -1,0 +1,9 @@
+# Logfile created on 2026-03-09 07:09:46 -0500 by logger.rb/v1.7.0
+I, [2026-03-09T07:09:46.636536 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/amvon/", text="amvon">
+I, [2026-03-09T07:09:46.636673 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/amvon/?page=113", text="amvon">
+I, [2026-03-09T07:09:46.636696 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/amvon/?page=2", text="amvon">
+I, [2026-03-09T07:09:46.636713 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/amvon/for-many-are-called-but-few-are-chosen/", text="amvon/for-many-are-called-but-few-are-chosen">
+I, [2026-03-09T07:09:46.636733 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/amvon/preparing-to-meet-christ-mark-11-8/", text="amvon/preparing-to-meet-christ-mark-11-8">
+I, [2026-03-09T07:09:46.636751 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/amvon/the-importance-of-studying-the-bible-matthew-11-17/", text="amvon/the-importance-of-studying-the-bible-matthew-11-17">
+I, [2026-03-09T07:09:46.636768 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/amvon/the-ten-lepers-2025-luke-1712-19/", text="amvon/the-ten-lepers-2025-luke-1712-19">
+I, [2026-03-09T07:09:46.636784 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/amvon/walking-circumspectly-ephesians-515/", text="amvon/walking-circumspectly-ephesians-515">

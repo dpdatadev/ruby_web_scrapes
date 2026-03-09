@@ -1,0 +1,13 @@
+# Logfile created on 2026-03-09 07:09:49 -0500 by logger.rb/v1.7.0
+I, [2026-03-09T07:09:49.975676 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/dailyscriptures/", text="dailyscriptures">
+I, [2026-03-09T07:09:49.975771 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/dailyscriptureskids/", text="dailyscriptureskids">
+I, [2026-03-09T07:09:49.975800 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/hiddensaints/", text="hiddensaints">
+I, [2026-03-09T07:09:49.975816 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/saintoftheday/", text="saintoftheday">
+I, [2026-03-09T07:09:49.975832 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/saintoftheday/?page=1099", text="saintoftheday">
+I, [2026-03-09T07:09:49.975847 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/saintoftheday/?page=2", text="saintoftheday">
+I, [2026-03-09T07:09:49.975863 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/saintoftheday/holy-hieromartyrs-of-cherson-4th-c-march-7/", text="saintoftheday/holy-hieromartyrs-of-cherson-4th-c-march-7">
+I, [2026-03-09T07:09:49.975880 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/saintoftheday/st-mark-the-ascetic-5th-c-march-5/", text="saintoftheday/st-mark-the-ascetic-5th-c-march-5">
+I, [2026-03-09T07:09:49.975897 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/saintoftheday/st-theophylactus-bishop-of-nicomedia-845/", text="saintoftheday/st-theophylactus-bishop-of-nicomedia-845">
+I, [2026-03-09T07:09:49.975914 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/saintoftheday/the-42-martyrs-of-ammorion-845-march-6/", text="saintoftheday/the-42-martyrs-of-ammorion-845-march-6">
+I, [2026-03-09T07:09:49.975929 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/saintoftheday/the-holy-forty-martyrs-of-sebastia-sebaste-320-march-9/", text="saintoftheday/the-holy-forty-martyrs-of-sebastia-sebaste-320-march-9">
+I, [2026-03-09T07:09:49.975944 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/thepath/", text="thepath">

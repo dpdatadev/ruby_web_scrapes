@@ -34,9 +34,10 @@ def log_reading_text(reading_link, output_file)
     file << "\n"
     file << text
   end
-
-  pp title
-  pp text
+  if DEBUG == 1
+    pp title
+    pp text
+  end
 end
 
 # MAIN

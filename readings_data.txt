@@ -1,6 +1,10 @@
 
-::Element Link::https://www.oca.org/readings/daily/2026/03/06/1::Element Text::Isaiah 7:1-15::
+::Element Link::https://www.oca.org/readings/daily/2026/03/08/1::Element Text::Luke 24:36-53::
 
-::Element Link::https://www.oca.org/readings/daily/2026/03/06/2::Element Text::Genesis 5:32-6:8::
+::Element Link::https://www.oca.org/readings/daily/2026/03/08/2::Element Text::Hebrews 7:26-8:2::
 
-::Element Link::https://www.oca.org/readings/daily/2026/03/06/3::Element Text::Proverbs 6:20-7:1::
+::Element Link::https://www.oca.org/readings/daily/2026/03/08/3::Element Text::John 10:9-16::
+
+::Element Link::https://www.oca.org/readings/daily/2026/03/08/4::Element Text::Hebrews 1:10-2:3::
+
+::Element Link::https://www.oca.org/readings/daily/2026/03/08/5::Element Text::Mark 2:1-12::

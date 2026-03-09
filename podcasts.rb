@@ -47,9 +47,8 @@ end
 recent_podcasts = []
 
 links.each do |podcast_content|
-  next if podcast_content.nil?
-
   link = podcast_content['href']
+  next if link.nil?
   text = podcast_content.children.text.strip
 
   if DEBUG == 1

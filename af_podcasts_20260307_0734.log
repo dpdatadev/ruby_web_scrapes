@@ -1,124 +1,188 @@
-
+# Logfile created on 2026-03-07 07:34:14 -0600 by logger.rb/v1.7.0
+I, [2026-03-07T07:34:14.378518 #27169]  INFO -- : Scraping https://www.ancientfaith.com/podcasts/?sort=latest_episodes
+I, [2026-03-07T07:34:15.254460 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com::Element Text::Global Music::
 
+I, [2026-03-07T07:34:15.254567 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com::Element Text::English Talk::
 
+I, [2026-03-07T07:34:15.254592 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com::Element Text::English Music::
 
+I, [2026-03-07T07:34:15.254608 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com/about/::Element Text::About::
 
+I, [2026-03-07T07:34:15.254622 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com/about/::Element Text::Contact::
 
+I, [2026-03-07T07:34:15.254635 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com/ceo-journal/::Element Text::CEO Journal::
 
+I, [2026-03-07T07:34:15.254647 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com/events/::Element Text::Events::
 
+I, [2026-03-07T07:34:15.254659 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com/login/::Element Text::Login::
 
+I, [2026-03-07T07:34:15.254671 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com/podcasts/::Element Text::Podcasts::
 
+I, [2026-03-07T07:34:15.254683 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com/podcasts/aftodaylive/::Element Text::Ancient Faith Today Live::
 
+I, [2026-03-07T07:34:15.254694 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com/podcasts/dailyscriptures/::Element Text::Daily Orthodox Scriptures::
 
+I, [2026-03-07T07:34:15.254708 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com/podcasts/dailyscriptureskids/::Element Text::Daily Orthodox Scriptures for Kids::
 
+I, [2026-03-07T07:34:15.254721 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com/podcasts/digital_discernment/::Element Text::Digital Discernment::
 
+I, [2026-03-07T07:34:15.254733 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com/podcasts/divineliturgy/::Element Text::The Divine Liturgy::
 
+I, [2026-03-07T07:34:15.254747 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com/podcasts/easternchristianinsights/::Element Text::Eastern Christian Insights::
 
+I, [2026-03-07T07:34:15.254760 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com/podcasts/features/::Element Text::Ancient Faith Presents::
 
+I, [2026-03-07T07:34:15.254774 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com/podcasts/fr-andrew-stephen-damick-lectures/::Element Text::The Lectures of Fr. Andrew Stephen Damick::
 
+I, [2026-03-07T07:34:15.254788 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com/podcasts/gods_wondrous_saints/::Element Text::God's Wondrous Saints::
 
+I, [2026-03-07T07:34:15.254800 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com/podcasts/greattales/::Element Text::The Great Tales::
 
+I, [2026-03-07T07:34:15.254813 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com/podcasts/lampfortoday/::Element Text::A Lamp for Today::
 
+I, [2026-03-07T07:34:15.254825 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com/podcasts/lightpast/::Element Text::Light Through the Past::
 
+I, [2026-03-07T07:34:15.254838 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com/podcasts/livewiththelouhs/::Element Text::Live with the Louhs::
 
+I, [2026-03-07T07:34:15.254851 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com/podcasts/lordofspirits/::Element Text::The Lord of Spirits::
 
+I, [2026-03-07T07:34:15.254864 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com/podcasts/nootherfoundation/::Element Text::No Other Foundation::
 
+I, [2026-03-07T07:34:15.254875 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com/podcasts/orthodox-explorers-club/::Element Text::Orthodox Explorers Club::
 
+I, [2026-03-07T07:34:15.254888 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com/podcasts/orthodoxpilgrim/::Element Text::The Orthodox Pilgrim::
 
+I, [2026-03-07T07:34:15.254905 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com/podcasts/orthodoxylive/::Element Text::Orthodoxy Live::
 
+I, [2026-03-07T07:34:15.254919 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com/podcasts/parables/::Element Text::Parables of Community::
 
+I, [2026-03-07T07:34:15.254931 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com/podcasts/sacramental/::Element Text::Sacramental Living::
 
+I, [2026-03-07T07:34:15.254942 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com/podcasts/saintoftheday/::Element Text::Saint of the Day::
 
+I, [2026-03-07T07:34:15.254953 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com/podcasts/searchthescriptureslive/::Element Text::Search the Scriptures Live::
 
+I, [2026-03-07T07:34:15.254964 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com/podcasts/simplepath/::Element Text::The Simple Path to God::
 
+I, [2026-03-07T07:34:15.254976 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com/podcasts/tendingthegarden/::Element Text::Tending the Garden of our Hearts::
 
+I, [2026-03-07T07:34:15.254990 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com/podcasts/the-great-rood-screen/::Element Text::The Great Rood Screen::
 
+I, [2026-03-07T07:34:15.255005 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com/podcasts/the_roots_of_everything/::Element Text::The Roots of Everything::
 
+I, [2026-03-07T07:34:15.255022 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com/podcasts/thepath/::Element Text::The Path::
 
+I, [2026-03-07T07:34:15.255039 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com/podcasts/transforminglives/::Element Text::Transforming Our Lives in Christ::
 
+I, [2026-03-07T07:34:15.255055 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com/podcasts/welcoming-gifts/::Element Text::Welcoming Gifts::
 
+I, [2026-03-07T07:34:15.255073 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com/podcasts/wholecounsel/::Element Text::The Whole Counsel of God::
 
+I, [2026-03-07T07:34:15.255141 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com/publishing/::Element Text::Publishing::
 
+I, [2026-03-07T07:34:15.255169 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com/radio/::Element Text::Radio::
 
+I, [2026-03-07T07:34:15.255185 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com/radio/digital-m/::Element Text::Podcast and Digital Media Proposals::
 
+I, [2026-03-07T07:34:15.255220 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com/radio/live-shows/::Element Text::Live Shows::
 
+I, [2026-03-07T07:34:15.255242 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com/radio/sponsorships/::Element Text::Sponsorships::
 
+I, [2026-03-07T07:34:15.255259 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com/support/::Element Text::Support::
 
+I, [2026-03-07T07:34:15.255276 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com/support/::Element Text::Donate::
 
+I, [2026-03-07T07:34:15.255290 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com/topics/Ancient-Faith-Kids/::Element Text::Kids::
 
+I, [2026-03-07T07:34:15.255302 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com/workwithus/::Element Text::Work With Us::
 
+I, [2026-03-07T07:34:15.255316 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com?filter=active&sort=latest_episodes::Element Text::Active::
 
+I, [2026-03-07T07:34:15.255329 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com?filter=archived&sort=latest_episodes::Element Text::Archived::
 
+I, [2026-03-07T07:34:15.255340 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com?filter=collections&sort=latest_episodes::Element Text::Collections::
 
+I, [2026-03-07T07:34:15.255351 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com?filter=daily&sort=latest_episodes::Element Text::Daily Bread::
 
+I, [2026-03-07T07:34:15.255364 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com?filter=kids&sort=latest_episodes::Element Text::Kids::
 
+I, [2026-03-07T07:34:15.255381 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com?filter=live&sort=latest_episodes::Element Text::Live Shows::
 
+I, [2026-03-07T07:34:15.255395 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com?sort=entry_date::Element Text::Oldest First::
 
+I, [2026-03-07T07:34:15.255408 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com?sort=entry_date_reverse::Element Text::Newest First::
 
+I, [2026-03-07T07:34:15.255421 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com?sort=latest_episodes::Element Text::Latest Episodes::
 
+I, [2026-03-07T07:34:15.255435 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com?sort=title::Element Text::Alphabetical::
 
+I, [2026-03-07T07:34:15.255448 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.com?sort=title_reverse::Element Text::Reverse Alphabetical::
 
+I, [2026-03-07T07:34:15.255462 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.comhttps://afm.kindful.com/?campaign=1193135::Element Text::Donate::
 
+I, [2026-03-07T07:34:15.255477 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.comhttps://store.ancientfaith.com::Element Text::Ancient Faith Store::
 
+I, [2026-03-07T07:34:15.255490 #27169]  INFO -- : 
 ::Element Link::https://www.ancientfaith.comhttps://store.ancientfaith.com/::Element Text::Store::
+

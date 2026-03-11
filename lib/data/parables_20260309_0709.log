@@ -1,9 +1,0 @@
-# Logfile created on 2026-03-09 07:09:49 -0500 by logger.rb/v1.7.0
-I, [2026-03-09T07:09:49.659285 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/parables/", text="parables">
-I, [2026-03-09T07:09:49.659498 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/parables/?page=2", text="parables">
-I, [2026-03-09T07:09:49.659665 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/parables/?page=47", text="parables">
-I, [2026-03-09T07:09:49.659720 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/parables/fasting-for-the-lenten-word/", text="parables/fasting-for-the-lenten-word">
-I, [2026-03-09T07:09:49.659743 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/parables/joseph-and-zacchaeus/", text="parables/joseph-and-zacchaeus">
-I, [2026-03-09T07:09:49.659758 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/parables/learning-from-the-publican-and-the-pharisee/", text="parables/learning-from-the-publican-and-the-pharisee">
-I, [2026-03-09T07:09:49.659774 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/parables/the-door-to-lent/", text="parables/the-door-to-lent">
-I, [2026-03-09T07:09:49.659787 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/parables/words-on-mercy-from-a-prodigal-son/", text="parables/words-on-mercy-from-a-prodigal-son">

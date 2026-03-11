@@ -15,7 +15,25 @@ class String
   end
 end
 
+# structs in Ruby are mutable - switch to Data class
+# https://docs.ruby-lang.org/en/3.3/Data.html
 # create an object to hold links
+ 
+LinkElementi = Data.new(:link, :text) do
+  include Comparable
+
+  def to_s
+    "\n::Element Link::#{link}::Element Text::#{text}::\n"
+  end
+
+  # we want to be able to sort an array of elements based on link
+  def <=>(other)
+    # sort/order by the link
+    self[:link] <=> other[:link]
+  end
+end
+
+
 LinkElement = Struct.new(:link, :text) do
   # include all comparable operations
   include Comparable
@@ -40,6 +58,7 @@ end
 # require 'logger'
 # require 'sqlite3'
 
+=begin
 module Scrapers
   class ScraperConfiguration
     attr_accessor :options,
@@ -75,6 +94,7 @@ module Scrapers
     end
   end
 end
+=end
 # # testing
 # s = ElementScraper.new('https://www.oca.org/readings/daily', true)
 # pp s.to_s

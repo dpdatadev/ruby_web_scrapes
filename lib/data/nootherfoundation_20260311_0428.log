@@ -1,0 +1,9 @@
+# Logfile created on 2026-03-11 04:28:16 -0500 by logger.rb/v1.7.0
+I, [2026-03-11T04:28:16.779615 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/nootherfoundation/", text="nootherfoundation">
+I, [2026-03-11T04:28:16.801597 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/nootherfoundation/?page=2", text="nootherfoundation">
+I, [2026-03-11T04:28:16.819113 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/nootherfoundation/?page=60", text="nootherfoundation">
+I, [2026-03-11T04:28:16.835764 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/nootherfoundation/a-personal-and-private-search-for-god/", text="nootherfoundation/a-personal-and-private-search-for-god">
+I, [2026-03-11T04:28:16.853882 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/nootherfoundation/he-doesnt-know-does-he/", text="nootherfoundation/he-doesnt-know-does-he">
+I, [2026-03-11T04:28:16.876127 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/nootherfoundation/how-to-preach/", text="nootherfoundation/how-to-preach">
+I, [2026-03-11T04:28:16.892252 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/nootherfoundation/of-wormholes-and-memorials/", text="nootherfoundation/of-wormholes-and-memorials">
+I, [2026-03-11T04:28:16.915326 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/nootherfoundation/the-donation-of-constantine/", text="nootherfoundation/the-donation-of-constantine">

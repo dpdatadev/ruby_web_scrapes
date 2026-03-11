@@ -1,0 +1,9 @@
+# Logfile created on 2026-03-11 04:28:17 -0500 by logger.rb/v1.7.0
+I, [2026-03-11T04:28:17.954169 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/tendingthegarden/", text="tendingthegarden">
+I, [2026-03-11T04:28:17.976185 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/tendingthegarden/?page=2", text="tendingthegarden">
+I, [2026-03-11T04:28:17.991521 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/tendingthegarden/?page=63", text="tendingthegarden">
+I, [2026-03-11T04:28:18.007041 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/tendingthegarden/brief-announcement/", text="tendingthegarden/brief-announcement">
+I, [2026-03-11T04:28:18.022521 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/tendingthegarden/give-thanks-in-all-things/", text="tendingthegarden/give-thanks-in-all-things">
+I, [2026-03-11T04:28:18.038459 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/tendingthegarden/nugget-they-are-icons-of-christ/", text="tendingthegarden/nugget-they-are-icons-of-christ">
+I, [2026-03-11T04:28:18.054677 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/tendingthegarden/nugget-youre-an-icon-of-christ/", text="tendingthegarden/nugget-youre-an-icon-of-christ">
+I, [2026-03-11T04:28:18.070216 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/tendingthegarden/why-not-me/", text="tendingthegarden/why-not-me">

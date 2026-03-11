@@ -1,24 +1,17 @@
 # frozen_string_literal: true
 
-require 'open-uri'
+require 'httparty'
 require 'nokogiri'
 require 'logger'
-require 'pg'
 
 require_relative 'lib/element'
 
 # set up logger and data store
-log_file = File.open('database.log', File::WRONLY | File::APPEND)
-
-data_log = Logger.new(log_file)
-
-connection = PG.connect(hostaddr: '23.239.16.24', port: 5432, dbname: 'scrapedata', user: 'linpostgres',
-                        password: '')
 
 DEBUG = 1
 
 # load the page
-doc = Nokogiri::HTML(URI.open('https://orthodoxchristiantheology.com/'))
+doc = Nokogiri::HTML(HTTParty.get('https://orthodoxchristiantheology.com/').body)
 
 puts doc.title
 
@@ -57,14 +50,4 @@ File.open('orthodoxchristiantheology.txt', 'w') do |file|
   end
 end
 
-connection.exec('TRUNCATE TABLE articles.orthodoxchristiantheology')
-
-# save to database
-recent_articles.each do |article|
-  insert_sql = 'INSERT INTO articles.orthodoxchristiantheology(link, text)VALUES($1, $2)'
-  data_values = [article.link, article.text]
-  connection.exec_params(insert_sql, data_values)
-  data_log.info("INSERTING VALUES: #{data_values}}")
-end
-
-puts recent_articles
+pp recent_articles

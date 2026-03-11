@@ -1,0 +1,9 @@
+# Logfile created on 2026-03-11 04:28:18 -0500 by logger.rb/v1.7.0
+I, [2026-03-11T04:28:18.196684 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/the_roots_of_everything/", text="the_roots_of_everything">
+I, [2026-03-11T04:28:18.221225 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/the_roots_of_everything/?page=2", text="the_roots_of_everything">
+I, [2026-03-11T04:28:18.238411 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/the_roots_of_everything/?page=7", text="the_roots_of_everything">
+I, [2026-03-11T04:28:18.254158 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/the_roots_of_everything/rise-of-pop-culture-ep2-science-fiction/", text="the_roots_of_everything/rise-of-pop-culture-ep2-science-fiction">
+I, [2026-03-11T04:28:18.270204 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/the_roots_of_everything/rise-of-pop-culture-ep3-star-wars-and-media/", text="the_roots_of_everything/rise-of-pop-culture-ep3-star-wars-and-media">
+I, [2026-03-11T04:28:18.286588 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/the_roots_of_everything/rise-of-pop-culture-ep4-tolkien-and-fantasy/", text="the_roots_of_everything/rise-of-pop-culture-ep4-tolkien-and-fantasy">
+I, [2026-03-11T04:28:18.303794 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/the_roots_of_everything/the-feminine-ep1-yin-and-yang/", text="the_roots_of_everything/the-feminine-ep1-yin-and-yang">
+I, [2026-03-11T04:28:18.319632 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/the_roots_of_everything/the-feminine-ep2-cosmic-dualism/", text="the_roots_of_everything/the-feminine-ep2-cosmic-dualism">

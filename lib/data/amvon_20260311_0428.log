@@ -1,0 +1,9 @@
+# Logfile created on 2026-03-11 04:28:14 -0500 by logger.rb/v1.7.0
+I, [2026-03-11T04:28:14.312599 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/amvon/", text="amvon">
+I, [2026-03-11T04:28:14.328696 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/amvon/?page=113", text="amvon">
+I, [2026-03-11T04:28:14.344915 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/amvon/?page=2", text="amvon">
+I, [2026-03-11T04:28:14.360831 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/amvon/for-many-are-called-but-few-are-chosen/", text="amvon/for-many-are-called-but-few-are-chosen">
+I, [2026-03-11T04:28:14.376359 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/amvon/preparing-to-meet-christ-mark-11-8/", text="amvon/preparing-to-meet-christ-mark-11-8">
+I, [2026-03-11T04:28:14.391839 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/amvon/st-maria-of-gatchina/", text="amvon/st-maria-of-gatchina">
+I, [2026-03-11T04:28:14.408010 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/amvon/the-importance-of-studying-the-bible-matthew-11-17/", text="amvon/the-importance-of-studying-the-bible-matthew-11-17">
+I, [2026-03-11T04:28:14.423831 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/amvon/the-ten-lepers-2025-luke-1712-19/", text="amvon/the-ten-lepers-2025-luke-1712-19">

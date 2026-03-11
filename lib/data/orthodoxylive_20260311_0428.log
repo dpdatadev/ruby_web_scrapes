@@ -1,0 +1,11 @@
+# Logfile created on 2026-03-11 04:28:17 -0500 by logger.rb/v1.7.0
+I, [2026-03-11T04:28:17.091696 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/orthodoxylive/", text="orthodoxylive">
+I, [2026-03-11T04:28:17.107780 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/orthodoxylive/?page=2", text="orthodoxylive">
+I, [2026-03-11T04:28:17.123482 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/orthodoxylive/?page=75", text="orthodoxylive">
+I, [2026-03-11T04:28:17.138361 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/orthodoxylive/orthodoxy-live-february-8-2026/", text="orthodoxylive/orthodoxy-live-february-8-2026">
+I, [2026-03-11T04:28:17.154076 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/orthodoxylive/orthodoxy-live-january-25-2026/", text="orthodoxylive/orthodoxy-live-january-25-2026">
+I, [2026-03-11T04:28:17.170408 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/orthodoxylive/orthodoxy-live-mailbag-episode-7/", text="orthodoxylive/orthodoxy-live-mailbag-episode-7">
+I, [2026-03-11T04:28:17.185725 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/orthodoxylive/orthodoxy-live-mailbag-episode-8/", text="orthodoxylive/orthodoxy-live-mailbag-episode-8">
+I, [2026-03-11T04:28:17.210152 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/orthodoxylive/orthodoxy-live-march-8-2026/", text="orthodoxylive/orthodoxy-live-march-8-2026">
+I, [2026-03-11T04:28:17.225283 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/searchthescriptureslive/", text="searchthescriptureslive">
+I, [2026-03-11T04:28:17.244208 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/transforminglives/", text="transforminglives">

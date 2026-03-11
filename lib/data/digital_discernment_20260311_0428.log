@@ -1,0 +1,9 @@
+# Logfile created on 2026-03-11 04:28:14 -0500 by logger.rb/v1.7.0
+I, [2026-03-11T04:28:14.932328 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/digital_discernment/", text="digital_discernment">
+I, [2026-03-11T04:28:14.963907 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/digital_discernment/?page=2", text="digital_discernment">
+I, [2026-03-11T04:28:14.979276 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/digital_discernment/?page=7", text="digital_discernment">
+I, [2026-03-11T04:28:14.994057 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/digital_discernment/anna-kallis-giving-youth-the-gift-of-unplugging/", text="digital_discernment/anna-kallis-giving-youth-the-gift-of-unplugging">
+I, [2026-03-11T04:28:15.012873 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/digital_discernment/dr-al-rossi-internet-pornography-the-cancer-of-our-culture/", text="digital_discernment/dr-al-rossi-internet-pornography-the-cancer-of-our-culture">
+I, [2026-03-11T04:28:15.028070 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/digital_discernment/fr-john-parker-internet-pornography-finding-hope-in-the-battle/", text="digital_discernment/fr-john-parker-internet-pornography-finding-hope-in-the-battle">
+I, [2026-03-11T04:28:15.044760 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/digital_discernment/fr-michael-nasser-spiritual-formation-and-the-internet/", text="digital_discernment/fr-michael-nasser-spiritual-formation-and-the-internet">
+I, [2026-03-11T04:28:15.060580 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/digital_discernment/steven-christoforou-fasting-from-food-and-phones/", text="digital_discernment/steven-christoforou-fasting-from-food-and-phones">

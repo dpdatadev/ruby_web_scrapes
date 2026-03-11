@@ -1,8 +1,0 @@
-# Logfile created on 2026-03-09 07:09:49 -0500 by logger.rb/v1.7.0
-I, [2026-03-09T07:09:49.226427 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/orthodox-explorers-club/", text="orthodox-explorers-club">
-I, [2026-03-09T07:09:49.226489 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/orthodox-explorers-club/?page=2", text="orthodox-explorers-club">
-I, [2026-03-09T07:09:49.226505 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/orthodox-explorers-club/living-water/", text="orthodox-explorers-club/living-water">
-I, [2026-03-09T07:09:49.226522 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/orthodox-explorers-club/required-reading/", text="orthodox-explorers-club/required-reading">
-I, [2026-03-09T07:09:49.226535 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/orthodox-explorers-club/sick-and-suffering/", text="orthodox-explorers-club/sick-and-suffering">
-I, [2026-03-09T07:09:49.226548 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/orthodox-explorers-club/st-tikhon-of-the-taiga/", text="orthodox-explorers-club/st-tikhon-of-the-taiga">
-I, [2026-03-09T07:09:49.226562 #395757]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/orthodox-explorers-club/the-first-orthodox-explorers/", text="orthodox-explorers-club/the-first-orthodox-explorers">

@@ -1,0 +1,6 @@
+# Logfile created on 2026-03-11 04:28:18 -0500 by logger.rb/v1.7.0
+I, [2026-03-11T04:28:18.102383 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/the-great-rood-screen/", text="the-great-rood-screen">
+I, [2026-03-11T04:28:18.118543 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/the-great-rood-screen/blood-and-thorn/", text="the-great-rood-screen/blood-and-thorn">
+I, [2026-03-11T04:28:18.133589 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/the-great-rood-screen/the-apostle-of-ireland/", text="the-great-rood-screen/the-apostle-of-ireland">
+I, [2026-03-11T04:28:18.150211 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/the-great-rood-screen/the-dawn-of-the-age-of-saints/", text="the-great-rood-screen/the-dawn-of-the-age-of-saints">
+I, [2026-03-11T04:28:18.167198 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/the-great-rood-screen/the-teacher-and-the-twelve/", text="the-great-rood-screen/the-teacher-and-the-twelve">

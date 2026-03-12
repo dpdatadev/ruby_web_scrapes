@@ -18,8 +18,8 @@ end
 # structs in Ruby are mutable - switch to Data class
 # https://docs.ruby-lang.org/en/3.3/Data.html
 # create an object to hold links
- 
-LinkElementi = Data.new(:link, :text) do
+# TODO, test implementation
+LinkElementi = Data.define(:link, :text) do
   include Comparable
 
   def to_s

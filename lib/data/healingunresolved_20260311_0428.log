@@ -1,9 +1,0 @@
-# Logfile created on 2026-03-11 04:28:16 -0500 by logger.rb/v1.7.0
-I, [2026-03-11T04:28:16.108077 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/healingunresolved/", text="healingunresolved">
-I, [2026-03-11T04:28:16.122444 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/healingunresolved/?page=2", text="healingunresolved">
-I, [2026-03-11T04:28:16.137230 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/healingunresolved/?page=27", text="healingunresolved">
-I, [2026-03-11T04:28:16.152554 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/healingunresolved/a-healing-fast-giving-up-trauma-responses-for-lent/", text="healingunresolved/a-healing-fast-giving-up-trauma-responses-for-lent">
-I, [2026-03-11T04:28:16.169108 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/healingunresolved/the-hidden-temptations-of-the-prodigal-son/", text="healingunresolved/the-hidden-temptations-of-the-prodigal-son">
-I, [2026-03-11T04:28:16.193350 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/healingunresolved/when-fear-of-rejection-becomes-self-rejection/", text="healingunresolved/when-fear-of-rejection-becomes-self-rejection">
-I, [2026-03-11T04:28:16.208347 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/healingunresolved/when-our-spouse-doesnt-want-faith-or-healing/", text="healingunresolved/when-our-spouse-doesnt-want-faith-or-healing">
-I, [2026-03-11T04:28:16.225076 #1709785]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/healingunresolved/when-we-retreat-to-familiar-territory/", text="healingunresolved/when-we-retreat-to-familiar-territory">

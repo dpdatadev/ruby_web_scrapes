@@ -7,6 +7,8 @@ require 'httparty'
 
 require_relative '../element'
 
+Dir.glob("*.log").each { |f| File.delete(f) } # clean up yesterdays mess
+
 DEBUG = 1
 
 # Go microservice, very fast page/element parsing using Colly

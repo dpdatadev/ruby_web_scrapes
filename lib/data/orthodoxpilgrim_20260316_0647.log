@@ -1,0 +1,8 @@
+# Logfile created on 2026-03-16 06:47:38 -0500 by logger.rb/v1.7.0
+I, [2026-03-16T06:47:38.179938 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/orthodoxpilgrim/", text="orthodoxpilgrim">
+I, [2026-03-16T06:47:38.195021 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/orthodoxpilgrim/?page=2", text="orthodoxpilgrim">
+I, [2026-03-16T06:47:38.209342 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/orthodoxpilgrim/ninian-the-saint-of-the-white-stone-the-raven-and-the-dove-ep-1/", text="orthodoxpilgrim/ninian-the-saint-of-the-white-stone-the-raven-and-the-dove-ep-1">
+I, [2026-03-16T06:47:38.224845 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/orthodoxpilgrim/out_of_appalachia_orthodox_christianity_and_the_old_regular_baptists/", text="orthodoxpilgrim/out_of_appalachia_orthodox_christianity_and_the_old_regular_baptists">
+I, [2026-03-16T06:47:38.240152 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/orthodoxpilgrim/relics_raphael/", text="orthodoxpilgrim/relics_raphael">
+I, [2026-03-16T06:47:38.255170 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/orthodoxpilgrim/the_equal_of_martyrdom_fr_nicola_yanney_holy_man_of_nebraska/", text="orthodoxpilgrim/the_equal_of_martyrdom_fr_nicola_yanney_holy_man_of_nebraska">
+I, [2026-03-16T06:47:38.270831 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/orthodoxpilgrim/trailer-the-raven-and-the-dove/", text="orthodoxpilgrim/trailer-the-raven-and-the-dove">

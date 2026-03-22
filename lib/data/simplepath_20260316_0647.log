@@ -1,0 +1,9 @@
+# Logfile created on 2026-03-16 06:47:39 -0500 by logger.rb/v1.7.0
+I, [2026-03-16T06:47:39.281474 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/simplepath/", text="simplepath">
+I, [2026-03-16T06:47:39.299167 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/simplepath/?page=2", text="simplepath">
+I, [2026-03-16T06:47:39.315741 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/simplepath/?page=40", text="simplepath">
+I, [2026-03-16T06:47:39.330320 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/simplepath/as-in-the-days-of-noah/", text="simplepath/as-in-the-days-of-noah">
+I, [2026-03-16T06:47:39.345258 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/simplepath/orthodoxy-the-true-path-to-salvation/", text="simplepath/orthodoxy-the-true-path-to-salvation">
+I, [2026-03-16T06:47:39.360634 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/simplepath/spiritual-poison/", text="simplepath/spiritual-poison">
+I, [2026-03-16T06:47:39.376706 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/simplepath/the-jesus-prayer-a-summary-of-the-gospel-and-a-tool-of-transformation/", text="simplepath/the-jesus-prayer-a-summary-of-the-gospel-and-a-tool-of-transformation">
+I, [2026-03-16T06:47:39.392329 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/simplepath/wasting-gods-gifts-risks-uniting-the-soul-to-evil/", text="simplepath/wasting-gods-gifts-risks-uniting-the-soul-to-evil">

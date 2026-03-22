@@ -12,7 +12,7 @@ Dir.glob("*.log").each { |f| File.delete(f) } # clean up yesterdays mess
 DEBUG = 1
 
 # Go microservice, very fast page/element parsing using Colly
-LINK_EXTRACT_API = 'http://127.0.0.1:7171/?url='
+LINK_EXTRACT_API = 'http://127.0.0.1:7171/links?url='
 HOME_PAGE_URL = "#{LINK_EXTRACT_API}https://www.ancientfaith.com/podcasts/?sort=latest_episodes" # latest podcasts
 
 def iterate_links(links, group_name, links_db)

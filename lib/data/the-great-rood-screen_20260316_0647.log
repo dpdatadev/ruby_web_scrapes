@@ -1,0 +1,7 @@
+# Logfile created on 2026-03-16 06:47:39 -0500 by logger.rb/v1.7.0
+I, [2026-03-16T06:47:39.426082 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/the-great-rood-screen/", text="the-great-rood-screen">
+I, [2026-03-16T06:47:39.441584 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/the-great-rood-screen/blood-and-thorn/", text="the-great-rood-screen/blood-and-thorn">
+I, [2026-03-16T06:47:39.456458 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/the-great-rood-screen/the-apostle-of-ireland/", text="the-great-rood-screen/the-apostle-of-ireland">
+I, [2026-03-16T06:47:39.471496 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/the-great-rood-screen/the-dawn-of-the-age-of-saints/", text="the-great-rood-screen/the-dawn-of-the-age-of-saints">
+I, [2026-03-16T06:47:39.485548 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/the-great-rood-screen/the-psalter-of-the-quatrains-canto-i/", text="the-great-rood-screen/the-psalter-of-the-quatrains-canto-i">
+I, [2026-03-16T06:47:39.500444 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/the-great-rood-screen/the-teacher-and-the-twelve/", text="the-great-rood-screen/the-teacher-and-the-twelve">

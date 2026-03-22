@@ -1,0 +1,14 @@
+# Logfile created on 2026-03-16 06:47:39 -0500 by logger.rb/v1.7.0
+I, [2026-03-16T06:47:39.661690 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/aftodaylive/", text="aftodaylive">
+I, [2026-03-16T06:47:39.677888 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/dailyscriptures/", text="dailyscriptures">
+I, [2026-03-16T06:47:39.693044 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/dailyscriptureskids/", text="dailyscriptureskids">
+I, [2026-03-16T06:47:39.708955 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/saintoftheday/", text="saintoftheday">
+I, [2026-03-16T06:47:39.725136 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/sermonsatstnicholas/", text="sermonsatstnicholas">
+I, [2026-03-16T06:47:39.741529 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/thepath/", text="thepath">
+I, [2026-03-16T06:47:39.757705 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/thepath/?page=2", text="thepath">
+I, [2026-03-16T06:47:39.773847 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/thepath/?page=967", text="thepath">
+I, [2026-03-16T06:47:39.790603 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/thepath/march-10-2026/", text="thepath/march-10-2026">
+I, [2026-03-16T06:47:39.807681 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/thepath/march-11-2026/", text="thepath/march-11-2026">
+I, [2026-03-16T06:47:39.825232 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/thepath/march-12-2026/", text="thepath/march-12-2026">
+I, [2026-03-16T06:47:39.842360 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/thepath/march-13-2026/", text="thepath/march-13-2026">
+I, [2026-03-16T06:47:39.859671 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/thepath/march-16-2026/", text="thepath/march-16-2026">

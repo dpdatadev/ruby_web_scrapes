@@ -3,9 +3,8 @@ March 5th, 2026 ..
 We're coming back to this project.
 
 TODO:
-Upgrade open-uri to HTTPARTY
+Alert to changes with Diffy (only then scrape and ingest changes)
 Extract logic to Rails for frontend configuration and display (later)
-Swap(add?) Postgres for sqlite3/duckdb, local data ftw.
 
 sidenote:
 ./linkserver (scraper_server.go), is a fast microservice that immediately returns

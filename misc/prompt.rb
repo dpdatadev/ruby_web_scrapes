@@ -1,7 +1,7 @@
 require 'gemini'
 
 # Initialize the client
-client = Gemini::Client.new("")
+client = Gemini::Client.new("AIzaSyDzP0xgBxWCNW7UJwwUs8jtoT8Qj7LrQR8")
 
 # Simple Text Generation
 response = client.generate_content(

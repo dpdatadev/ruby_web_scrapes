@@ -34,7 +34,7 @@ class WikipediaScraper
       }
 
       puts "Successfully scraped '#{data[:title]}'"
-      data
+      data #return
     rescue OpenURI::HTTPError => e
       puts "Error fetching page '#{page_title}': #{e.message}"
       puts "URL attempted: #{full_url}"

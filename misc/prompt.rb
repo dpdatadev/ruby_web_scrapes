@@ -5,7 +5,7 @@ client = Gemini::Client.new("")
 
 # Simple Text Generation
 response = client.generate_content(
-  "Please generate a summary of common behavioral and structural design patterns using a comparison in the following Languages: Go, C#, Ruby, Python",
+  "Please generate a summary of the decorator design pattern using a comparison in the following Languages: Go, C#, Ruby, Python",
   model: "gemini-2.5-flash"
 )
 

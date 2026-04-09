@@ -1,9 +1,0 @@
-# Logfile created on 2026-03-16 06:47:38 -0500 by logger.rb/v1.7.0
-I, [2026-03-16T06:47:38.012792 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/madetobeakingdom/", text="madetobeakingdom">
-I, [2026-03-16T06:47:38.028091 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/madetobeakingdom/?page=2", text="madetobeakingdom">
-I, [2026-03-16T06:47:38.043085 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/madetobeakingdom/?page=26", text="madetobeakingdom">
-I, [2026-03-16T06:47:38.058274 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/madetobeakingdom/before-pentecost-the-church-older-than-the-sun-and-moon/", text="madetobeakingdom/before-pentecost-the-church-older-than-the-sun-and-moon">
-I, [2026-03-16T06:47:38.086623 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/madetobeakingdom/built-on-the-anointed-rock-christ-the-church-and-the-gates-of-death/", text="madetobeakingdom/built-on-the-anointed-rock-christ-the-church-and-the-gates-of-death">
-I, [2026-03-16T06:47:38.101654 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/madetobeakingdom/fasting-as-the-body-of-christ-the-ecclesial-shape-of-great-lent/", text="madetobeakingdom/fasting-as-the-body-of-christ-the-ecclesial-shape-of-great-lent">
-I, [2026-03-16T06:47:38.116379 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/madetobeakingdom/where-is-the-church-matthew-1618-the-confession-of-peter-and-paschal-victory/", text="madetobeakingdom/where-is-the-church-matthew-1618-the-confession-of-peter-and-paschal-victory">
-I, [2026-03-16T06:47:38.132787 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/madetobeakingdom/whose-church-is-it-belonging-not-owning/", text="madetobeakingdom/whose-church-is-it-belonging-not-owning">

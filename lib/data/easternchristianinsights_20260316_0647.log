@@ -1,9 +1,0 @@
-# Logfile created on 2026-03-16 06:47:36 -0500 by logger.rb/v1.7.0
-I, [2026-03-16T06:47:36.703431 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/easternchristianinsights/", text="easternchristianinsights">
-I, [2026-03-16T06:47:36.732292 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/easternchristianinsights/?page=2", text="easternchristianinsights">
-I, [2026-03-16T06:47:36.747429 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/easternchristianinsights/?page=87", text="easternchristianinsights">
-I, [2026-03-16T06:47:36.762812 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/easternchristianinsights/forgiveness-sunday/", text="easternchristianinsights/forgiveness-sunday">
-I, [2026-03-16T06:47:36.776878 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/easternchristianinsights/the-last-judgement/", text="easternchristianinsights/the-last-judgement">
-I, [2026-03-16T06:47:36.790987 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/easternchristianinsights/the-prodigal-son/", text="easternchristianinsights/the-prodigal-son">
-I, [2026-03-16T06:47:36.806609 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/easternchristianinsights/the-publican-and-the-pharisee/", text="easternchristianinsights/the-publican-and-the-pharisee">
-I, [2026-03-16T06:47:36.821260 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/easternchristianinsights/the-sunday-of-orthodoxy/", text="easternchristianinsights/the-sunday-of-orthodoxy">

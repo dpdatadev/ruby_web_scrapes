@@ -1,0 +1,9 @@
+# Logfile created on 2026-04-09 05:42:55 -0500 by logger.rb/v1.7.0
+I, [2026-04-09T05:42:55.365112 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/comeandsee/", text="comeandsee">
+I, [2026-04-09T05:42:55.382196 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/comeandsee/?page=2", text="comeandsee">
+I, [2026-04-09T05:42:55.398973 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/comeandsee/?page=85", text="comeandsee">
+I, [2026-04-09T05:42:55.414616 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/comeandsee/anything-is-possible/", text="comeandsee/anything-is-possible">
+I, [2026-04-09T05:42:55.430755 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/comeandsee/namby-pamby-religion-yuk/", text="comeandsee/namby-pamby-religion-yuk">
+I, [2026-04-09T05:42:55.446705 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/comeandsee/perfect-orthodox-fasting/", text="comeandsee/perfect-orthodox-fasting">
+I, [2026-04-09T05:42:55.462017 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/comeandsee/restoring-the-image/", text="comeandsee/restoring-the-image">
+I, [2026-04-09T05:42:55.476856 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/comeandsee/what-were-they-asking-for/", text="comeandsee/what-were-they-asking-for">

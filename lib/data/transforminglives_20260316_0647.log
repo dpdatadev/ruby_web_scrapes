@@ -1,9 +1,0 @@
-# Logfile created on 2026-03-16 06:47:39 -0500 by logger.rb/v1.7.0
-I, [2026-03-16T06:47:39.884875 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/transforminglives/", text="transforminglives">
-I, [2026-03-16T06:47:39.900045 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/transforminglives/?page=2", text="transforminglives">
-I, [2026-03-16T06:47:39.922702 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/transforminglives/?page=73", text="transforminglives">
-I, [2026-03-16T06:47:39.936632 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/transforminglives/class-238-gospel-of-luke-1939-48/", text="transforminglives/class-238-gospel-of-luke-1939-48">
-I, [2026-03-16T06:47:39.950826 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/transforminglives/class-239-gospel-of-luke-201-8/", text="transforminglives/class-239-gospel-of-luke-201-8">
-I, [2026-03-16T06:47:39.964483 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/transforminglives/class-240-gospel-of-luke-209-17/", text="transforminglives/class-240-gospel-of-luke-209-17">
-I, [2026-03-16T06:47:39.978299 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/transforminglives/class-241-gospel-of-luke-2020-26/", text="transforminglives/class-241-gospel-of-luke-2020-26">
-I, [2026-03-16T06:47:39.992291 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/transforminglives/class-242-gospel-of-luke-2027-37/", text="transforminglives/class-242-gospel-of-luke-2027-37">

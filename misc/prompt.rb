@@ -1,7 +1,7 @@
 require 'gemini'
 
 # Initialize the client
-client = Gemini::Client.new("")
+client = Gemini::Client.new("AIzaSyBC57C2nW__j0SxM98gkS44aDPItPm8oGU")
 
 # Simple Text Generation
 response = client.generate_content(
@@ -13,6 +13,7 @@ puts response.text if response.valid?
 
 
 # Rails version
+# TODO, 3-25
 module AI   
   class PromptViewModel
     attr_accessor :prompt_text, :response_text

@@ -1,9 +1,0 @@
-# Logfile created on 2026-03-16 06:47:38 -0500 by logger.rb/v1.7.0
-I, [2026-03-16T06:47:38.732261 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/saintemmelia/", text="saintemmelia">
-I, [2026-03-16T06:47:38.747315 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/saintemmelia/?page=2", text="saintemmelia">
-I, [2026-03-16T06:47:38.762208 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/saintemmelia/?page=23", text="saintemmelia">
-I, [2026-03-16T06:47:38.777301 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/saintemmelia/interview-with-pres-jennifer-souza-orthodox-homeschool-health-course/", text="saintemmelia/interview-with-pres-jennifer-souza-orthodox-homeschool-health-course">
-I, [2026-03-16T06:47:38.792311 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/saintemmelia/mom-guilt-part-1/", text="saintemmelia/mom-guilt-part-1">
-I, [2026-03-16T06:47:38.808098 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/saintemmelia/next-steps-an-interview-with-kh-bethann/", text="saintemmelia/next-steps-an-interview-with-kh-bethann">
-I, [2026-03-16T06:47:38.823610 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/saintemmelia/next-steps-an-interview-with-megan-bonynge/", text="saintemmelia/next-steps-an-interview-with-megan-bonynge">
-I, [2026-03-16T06:47:38.839331 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/saintemmelia/next-steps-an-interview-with-pres-krista-fedorchak/", text="saintemmelia/next-steps-an-interview-with-pres-krista-fedorchak">

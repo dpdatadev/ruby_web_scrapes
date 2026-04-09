@@ -1,0 +1,9 @@
+# Logfile created on 2026-04-09 05:42:59 -0500 by logger.rb/v1.7.0
+I, [2026-04-09T05:42:59.157685 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/easternchristianinsights/", text="easternchristianinsights">
+I, [2026-04-09T05:42:59.180097 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/easternchristianinsights/?page=2", text="easternchristianinsights">
+I, [2026-04-09T05:42:59.194892 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/easternchristianinsights/?page=88", text="easternchristianinsights">
+I, [2026-04-09T05:42:59.212013 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/easternchristianinsights/forgiveness-sunday/", text="easternchristianinsights/forgiveness-sunday">
+I, [2026-04-09T05:42:59.228348 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/easternchristianinsights/the-sunday-of-orthodoxy/", text="easternchristianinsights/the-sunday-of-orthodoxy">
+I, [2026-04-09T05:42:59.245333 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/easternchristianinsights/the-sunday-of-st-gregory-palamas/", text="easternchristianinsights/the-sunday-of-st-gregory-palamas">
+I, [2026-04-09T05:42:59.260638 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/easternchristianinsights/the-sunday-of-st-mary-of-egypt/", text="easternchristianinsights/the-sunday-of-st-mary-of-egypt">
+I, [2026-04-09T05:42:59.277559 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/easternchristianinsights/the-sunday-of-the-adoration-of-the-holy-cross/", text="easternchristianinsights/the-sunday-of-the-adoration-of-the-holy-cross">

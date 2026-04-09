@@ -1,0 +1,9 @@
+# Logfile created on 2026-04-09 05:43:01 -0500 by logger.rb/v1.7.0
+I, [2026-04-09T05:43:01.002653 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/gods_wondrous_saints/", text="gods_wondrous_saints">
+I, [2026-04-09T05:43:01.022559 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/gods_wondrous_saints/?page=2", text="gods_wondrous_saints">
+I, [2026-04-09T05:43:01.066611 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/gods_wondrous_saints/?page=8", text="gods_wondrous_saints">
+I, [2026-04-09T05:43:01.081681 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/gods_wondrous_saints/st-haralambos-of-magnesia/", text="gods_wondrous_saints/st-haralambos-of-magnesia">
+I, [2026-04-09T05:43:01.096764 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/gods_wondrous_saints/st-innocent-of-alaska/", text="gods_wondrous_saints/st-innocent-of-alaska">
+I, [2026-04-09T05:43:01.119166 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/gods_wondrous_saints/st-photini-the-samaritan-woman/", text="gods_wondrous_saints/st-photini-the-samaritan-woman">
+I, [2026-04-09T05:43:01.135243 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/gods_wondrous_saints/sts-rafael-nicholas-irene/", text="gods_wondrous_saints/sts-rafael-nicholas-irene">
+I, [2026-04-09T05:43:01.149069 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/gods_wondrous_saints/sundays-of-lent/", text="gods_wondrous_saints/sundays-of-lent">

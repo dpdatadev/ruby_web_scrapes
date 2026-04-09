@@ -1,9 +1,0 @@
-# Logfile created on 2026-03-16 06:47:36 -0500 by logger.rb/v1.7.0
-I, [2026-03-16T06:47:36.841158 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/familymatters/", text="familymatters">
-I, [2026-03-16T06:47:36.857186 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/familymatters/?page=2", text="familymatters">
-I, [2026-03-16T06:47:36.875893 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/familymatters/?page=43", text="familymatters">
-I, [2026-03-16T06:47:36.889721 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/familymatters/cultivating-gratitude-in-our-hearts-and-homes/", text="familymatters/cultivating-gratitude-in-our-hearts-and-homes">
-I, [2026-03-16T06:47:36.906034 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/familymatters/giving-thanks-to-god-when-we-do-not-feel-grateful/", text="familymatters/giving-thanks-to-god-when-we-do-not-feel-grateful">
-I, [2026-03-16T06:47:36.920730 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/familymatters/st-john-the-baptist-is-preparing-the-way-of-accessibility-on-behalf-of-all-pilot-parish-feature/", text="familymatters/st-john-the-baptist-is-preparing-the-way-of-accessibility-on-behalf-of-all-pilot-parish-feature">
-I, [2026-03-16T06:47:36.938026 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/familymatters/the-impact-of-addiction-on-marriage-and-family-life/", text="familymatters/the-impact-of-addiction-on-marriage-and-family-life">
-I, [2026-03-16T06:47:36.957255 #29821]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/familymatters/what-makes-children-with-disabilities-vulnerable-to-human-trafficking/", text="familymatters/what-makes-children-with-disabilities-vulnerable-to-human-trafficking">

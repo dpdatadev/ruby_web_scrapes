@@ -53,7 +53,7 @@ class WotApiScraper
     url = URI(BASE_URL)
     url.query = URI.encode_www_form(params)
     
-    response = Net::HTTP.get_response(url)
+    response = Net::HTTP.get_response(url) #TODO, replace with HTTParty
     JSON.parse(response.body) if response.is_a?(Net::HTTPSuccess)
   rescue => e
     puts "API Error: #{e.message}"
@@ -79,15 +79,25 @@ end
 
 # --- Execution ---
 scraper = WotApiScraper.new
+=begin 
+Useful Category Names for WoT:
+You can replace "Cities" in the script with these to get more data:
+Characters
+Major_Characters
+Aes_Sedai
+Countries
+Unique_Objects (for keywords/artifacts like Angreal)
+Old_Tongue_words (for keywords)
+=end
 
-# Step 1: Find titles in a category (e.g., Cities in WoT)
-puts "Fetching list of cities..."
-cities = scraper.get_category_members("Cities")
+# Step 1: Find titles in a category (e.g., aes_sedai in WoT)
+puts "Fetching list of Aes Sedia..."
+cities = scraper.get_category_members("Aes_Sedai")
 
-# Step 2: Get detailed data for the first 3 cities found
-results = cities.first(3).map do |city_name|
-  puts "Retrieving API data for: #{city_name}"
-  data = scraper.get_page_data(city_name)
+# Step 2: Get detailed data for the first 3 aes_sedai found
+results = cities.first(3).map do |aes_sedai|
+  puts "Retrieving API data for: #{aes_sedai}"
+  data = scraper.get_page_data(aes_sedai)
   sleep 0.5 # API safety delay
   data
 end

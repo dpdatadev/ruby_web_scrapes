@@ -1,9 +1,0 @@
-# Logfile created on 2026-04-09 05:42:58 -0500 by logger.rb/v1.7.0
-I, [2026-04-09T05:42:58.496756 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/doxacon/", text="doxacon">
-I, [2026-04-09T05:42:58.514684 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/doxacon/?page=2", text="doxacon">
-I, [2026-04-09T05:42:58.532225 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/doxacon/?page=25", text="doxacon">
-I, [2026-04-09T05:42:58.550205 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/doxacon/a-seat-at-that-table-extrinsic-and-intrinsic-catharsis-in-the-falcon-and-the-winter-soldier-and-beyo/", text="doxacon/a-seat-at-that-table-extrinsic-and-intrinsic-catharsis-in-the-falcon-and-the-winter-soldier-and-beyo">
-I, [2026-04-09T05:42:58.565905 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/doxacon/apocalypse-how-the-end-catharsis-and-magic-the-gathering/", text="doxacon/apocalypse-how-the-end-catharsis-and-magic-the-gathering">
-I, [2026-04-09T05:42:58.581859 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/doxacon/reconquering-sci-fi-for-god/", text="doxacon/reconquering-sci-fi-for-god">
-I, [2026-04-09T05:42:58.599574 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/doxacon/the-prince-and-the-pyromaniac-obsession-dishonor-and-repentance/", text="doxacon/the-prince-and-the-pyromaniac-obsession-dishonor-and-repentance">
-I, [2026-04-09T05:42:58.616822 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/doxacon/the-prodigal-power-ranger/", text="doxacon/the-prodigal-power-ranger">

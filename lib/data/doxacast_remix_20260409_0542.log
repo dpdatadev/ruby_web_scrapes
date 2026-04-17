@@ -1,9 +1,0 @@
-# Logfile created on 2026-04-09 05:42:57 -0500 by logger.rb/v1.7.0
-I, [2026-04-09T05:42:57.909171 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/doxacast_remix/", text="doxacast_remix">
-I, [2026-04-09T05:42:57.926101 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/doxacast_remix/?page=2", text="doxacast_remix">
-I, [2026-04-09T05:42:57.940823 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/doxacast_remix/?page=8", text="doxacast_remix">
-I, [2026-04-09T05:42:57.955928 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/doxacast_remix/are-there-no-true-knights-among-you-honor-and-goodness-in-a-knight-of-the-seven-kingdoms/", text="doxacast_remix/are-there-no-true-knights-among-you-honor-and-goodness-in-a-knight-of-the-seven-kingdoms">
-I, [2026-04-09T05:42:57.973158 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/doxacast_remix/choice-and-destiny-in-blade-runner-2049/", text="doxacast_remix/choice-and-destiny-in-blade-runner-2049">
-I, [2026-04-09T05:42:57.987696 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/doxacast_remix/darmok-and-jalad-on-the-ocean/", text="doxacast_remix/darmok-and-jalad-on-the-ocean">
-I, [2026-04-09T05:42:58.004745 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/doxacast_remix/good-and-evil-and-creative-chaos-in-cooperative-gaming/", text="doxacast_remix/good-and-evil-and-creative-chaos-in-cooperative-gaming">
-I, [2026-04-09T05:42:58.021290 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/doxacast_remix/the-emergence-of-shadows-babylon-5-watch-part-5/", text="doxacast_remix/the-emergence-of-shadows-babylon-5-watch-part-5">

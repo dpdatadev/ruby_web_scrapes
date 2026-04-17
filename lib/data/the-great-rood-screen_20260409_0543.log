@@ -1,8 +1,0 @@
-# Logfile created on 2026-04-09 05:43:11 -0500 by logger.rb/v1.7.0
-I, [2026-04-09T05:43:11.964539 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/the-great-rood-screen/", text="the-great-rood-screen">
-I, [2026-04-09T05:43:11.980875 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/the-great-rood-screen/?page=2", text="the-great-rood-screen">
-I, [2026-04-09T05:43:11.998554 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/the-great-rood-screen/st-brigid-mary-of-the-gaels/", text="the-great-rood-screen/st-brigid-mary-of-the-gaels">
-I, [2026-04-09T05:43:12.012953 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/the-great-rood-screen/the-psalter-of-the-quatrains-canto-i/", text="the-great-rood-screen/the-psalter-of-the-quatrains-canto-i">
-I, [2026-04-09T05:43:12.027484 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/the-great-rood-screen/the-psalter-of-the-quatrains-canto-ii/", text="the-great-rood-screen/the-psalter-of-the-quatrains-canto-ii">
-I, [2026-04-09T05:43:12.042329 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/the-great-rood-screen/the-rock-of-st-michael-a-st-patricks-day-episode/", text="the-great-rood-screen/the-rock-of-st-michael-a-st-patricks-day-episode">
-I, [2026-04-09T05:43:12.058594 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/the-great-rood-screen/the-teacher-and-the-twelve/", text="the-great-rood-screen/the-teacher-and-the-twelve">

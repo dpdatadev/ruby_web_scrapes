@@ -1,9 +1,0 @@
-# Logfile created on 2026-04-09 05:42:57 -0500 by logger.rb/v1.7.0
-I, [2026-04-09T05:42:57.317058 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/divineliturgy/", text="divineliturgy">
-I, [2026-04-09T05:42:57.341106 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/divineliturgy/?page=2", text="divineliturgy">
-I, [2026-04-09T05:42:57.355073 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/divineliturgy/?page=58", text="divineliturgy">
-I, [2026-04-09T05:42:57.370506 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/divineliturgy/the-divine-liturgy-april-5-2026/", text="divineliturgy/the-divine-liturgy-april-5-2026">
-I, [2026-04-09T05:42:57.386323 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/divineliturgy/the-divine-liturgy-february-15-2026/", text="divineliturgy/the-divine-liturgy-february-15-2026">
-I, [2026-04-09T05:42:57.402018 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/divineliturgy/the-divine-liturgy-february-22-2026/", text="divineliturgy/the-divine-liturgy-february-22-2026">
-I, [2026-04-09T05:42:57.418782 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/divineliturgy/the-divine-liturgy-march-1-2026/", text="divineliturgy/the-divine-liturgy-march-1-2026">
-I, [2026-04-09T05:42:57.435665 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/divineliturgy/the-divine-liturgy-march-29-2026/", text="divineliturgy/the-divine-liturgy-march-29-2026">

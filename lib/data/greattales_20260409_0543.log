@@ -1,9 +1,0 @@
-# Logfile created on 2026-04-09 05:43:01 -0500 by logger.rb/v1.7.0
-I, [2026-04-09T05:43:01.777842 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/greattales/", text="greattales">
-I, [2026-04-09T05:43:01.797079 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/greattales/?page=2", text="greattales">
-I, [2026-04-09T05:43:01.811107 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/greattales/?page=7", text="greattales">
-I, [2026-04-09T05:43:01.825721 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/greattales/burgundians-behaving-badly/", text="greattales/burgundians-behaving-badly">
-I, [2026-04-09T05:43:01.843477 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/greattales/the-cup-of-the-gjukings/", text="greattales/the-cup-of-the-gjukings">
-I, [2026-04-09T05:43:01.858585 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/greattales/the-quarrel-of-the-queens/", text="greattales/the-quarrel-of-the-queens">
-I, [2026-04-09T05:43:01.876181 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/greattales/the-scourge-of-god/", text="greattales/the-scourge-of-god">
-I, [2026-04-09T05:43:01.892669 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/greattales/three-bardic-beatdowns/", text="greattales/three-bardic-beatdowns">

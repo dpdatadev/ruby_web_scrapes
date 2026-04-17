@@ -1,9 +1,0 @@
-# Logfile created on 2026-04-09 05:43:04 -0500 by logger.rb/v1.7.0
-I, [2026-04-09T05:43:04.493323 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/letusattend/", text="letusattend">
-I, [2026-04-09T05:43:04.510691 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/letusattend/?page=2", text="letusattend">
-I, [2026-04-09T05:43:04.528498 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/letusattend/?page=357", text="letusattend">
-I, [2026-04-09T05:43:04.546646 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/letusattend/april-5-2026-john-121-18-read-for-older-children/", text="letusattend/april-5-2026-john-121-18-read-for-older-children">
-I, [2026-04-09T05:43:04.560674 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/letusattend/april-5-2026-john-121-18-told-for-younger-children/", text="letusattend/april-5-2026-john-121-18-told-for-younger-children">
-I, [2026-04-09T05:43:04.574299 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/letusattend/march-15-2026-mark-834-91-read-for-older-children/", text="letusattend/march-15-2026-mark-834-91-read-for-older-children">
-I, [2026-04-09T05:43:04.591413 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/letusattend/march-22-2026-mark-917-31-read-for-older-children/", text="letusattend/march-22-2026-mark-917-31-read-for-older-children">
-I, [2026-04-09T05:43:04.607319 #339310]  INFO -- : #<struct LinkElement link="https://www.ancientfaith.com/podcasts/letusattend/march-22-2026-mark-917-31-told-for-younger-children/", text="letusattend/march-22-2026-mark-917-31-told-for-younger-children">

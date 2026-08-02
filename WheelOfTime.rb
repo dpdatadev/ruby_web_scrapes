@@ -31,6 +31,22 @@ class WotApiScraper
     }
   end
 
+  # main entry point for dumping info on a wiki topic
+  def dump_info_on(topic, count=3)
+        
+    puts "Fetching list of #{topic} from the API..."
+    topic = get_category_members("#{topic}")
+
+    results = topic.first(count).map do |topic|
+      puts "Retrieving API data for: #{topic}"
+      data = get_page_data(topic)
+      sleep 0.5 # API safety delay
+      data
+    end
+
+    puts JSON.pretty_generate(results)
+  end
+
   # 2. Fetch all members of a category (e.g., "Category:Characters")
   def get_category_members(category_name)
     params = {
@@ -77,7 +93,7 @@ class WotApiScraper
   end
 end
 
-# --- Execution ---
+# --- Example Execution ---
 scraper = WotApiScraper.new
 =begin 
 Useful Category Names for WoT:
@@ -90,16 +106,4 @@ Unique_Objects (for keywords/artifacts like Angreal)
 Old_Tongue_words (for keywords)
 =end
 
-# Step 1: Find titles in a category (e.g., aes_sedai in WoT)
-puts "Fetching list of Aes Sedia..."
-cities = scraper.get_category_members("Aes_Sedai")
-
-# Step 2: Get detailed data for the first 3 aes_sedai found
-results = cities.first(3).map do |aes_sedai|
-  puts "Retrieving API data for: #{aes_sedai}"
-  data = scraper.get_page_data(aes_sedai)
-  sleep 0.5 # API safety delay
-  data
-end
-
-puts JSON.pretty_generate(results)
+scraper.dump_info_on("Cities", 5) # Example usage

@@ -4,8 +4,10 @@ require 'gemini'
 client = Gemini::Client.new("AIzaSyBC57C2nW__j0SxM98gkS44aDPItPm8oGU")
 
 # Simple Text Generation
+# Previous prompts:
+# Please generate a summary of the decorator design pattern using a comparison in the following Languages: Go, C#, Ruby, Python
 response = client.generate_content(
-  "Please generate a summary of the decorator design pattern using a comparison in the following Languages: Go, C#, Ruby, Python",
+  "Please generate a timeline overview of Dragonlance, including major events and key characters of the various ages (Age of Despair, Age of Mortals, etc.,)",
   model: "gemini-2.5-flash"
 )
 
